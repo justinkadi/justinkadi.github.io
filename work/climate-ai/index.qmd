@@ -1,0 +1,14 @@
+---
+title: "ClimateAi"
+description: "climate data, time series"
+categories: [Climate, Start Up] # self-defined categories
+image: climateai-logo.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Background
+By applying AI to climate risk modeling, we provide short and long-term insights into weather and climate impact, helping businesses identify the actions needed today to adapt to the climate change disruptions of tomorrow.
+
+## What I Did
+In my role as a Data Science Intern, I worked on creating more accurate short-term weather forecasts by using a multi-model approach. I tested different weighing schemes for the models based on different accuracy metrics across different regions around the world.
+

@@ -1,0 +1,14 @@
+---
+title: "NASA Ames Research Center"
+description: "LLMs, transformers, NLP, deep learning"
+categories: [NLP, Deep Learning] # self-defined categories
+image: ames-logo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Background
+I worked with Nija Shi and Guillaume Brat in the Intelligent Systems Division on a project management tool to organize digital mission requirements, documents, and artifacts.
+
+## What I Do
+In my role as a Research Data Scientist, I fine-tuned BERT transformer models to more accurately categorize documents.
+

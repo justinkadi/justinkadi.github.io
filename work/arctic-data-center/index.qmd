@@ -1,0 +1,13 @@
+---
+title: "Arctic Data Center"
+description: "data curation, metadata, publishing, large data"
+categories: [NCEAS, Arctic] # self-defined categories
+image: adc-logo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Background
+The Arctic Data Center (ADC) is the primary data and software repository for the National Science Foundation (NSF)'s Office of Polar Programs (OPP). Our mission is to help the research community reproducibly preserve and discoover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model.
+
+## What I Did
+In my role as a Data Coordinator, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future.

@@ -4,5 +4,15 @@
     "items": [
       "/blog/2025-05-utqiagvik-trip/index.html"
     ]
+  },
+  {
+    "listing": "/work.html",
+    "items": [
+      "/work/arctic-data-center/index.html",
+      "/work/permafrost-discovery-gateway/index.html",
+      "/work/nasa-ames/index.html",
+      "/work/esdl/index.html",
+      "/work/climate-ai/index.html"
+    ]
   }
 ]

@@ -1,17 +1,13 @@
 ---
-
+title: "Work & Past Projects"
+listing: 
+  contents:
+    - "work/arctic-data-center"
+    - "work/permafrost-discovery-gateway"
+    - "work/nasa-ames"
+    - "work/esdl"
+    - "work/climate-ai"
+  type: default # or `default` or `table`; each type has its own set of yaml options to include
+  categories: true # allows you to sort posts by assigned categories 
+  sort: "false"
 ---
-
-## Arctic Data Center
-
-
-## Permafrost Discovery Gateway
-
-
-## NASA Ames Research Center
-
-
-## Environmental Systems Dynamics Lab
-
-
-## ClimateAi

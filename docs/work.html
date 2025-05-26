@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Justin Kadi – work</title>
+<title>Justin Kadi - Work &amp; Past Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -106,44 +138,194 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#arctic-data-center" id="toc-arctic-data-center" class="nav-link active" data-scroll-target="#arctic-data-center">Arctic Data Center</a></li>
-  <li><a href="#permafrost-discovery-gateway" id="toc-permafrost-discovery-gateway" class="nav-link" data-scroll-target="#permafrost-discovery-gateway">Permafrost Discovery Gateway</a></li>
-  <li><a href="#nasa-ames-research-center" id="toc-nasa-ames-research-center" class="nav-link" data-scroll-target="#nasa-ames-research-center">NASA Ames Research Center</a></li>
-  <li><a href="#environmental-systems-dynamics-lab" id="toc-environmental-systems-dynamics-lab" class="nav-link" data-scroll-target="#environmental-systems-dynamics-lab">Environmental Systems Dynamics Lab</a></li>
-  <li><a href="#climateai" id="toc-climateai" class="nav-link" data-scroll-target="#climateai">ClimateAi</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Arctic">Arctic <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Climate">Climate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Deep Learning">Deep Learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Hydrology">Hydrology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="NCEAS">NCEAS <span class="quarto-category-count">(2)</span></div><div class="category" data-category="NLP">NLP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Start Up">Start Up <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Work &amp; Past Projects</h1>
+</div>
 
 
-<hr>
-<hr>
-<section id="arctic-data-center" class="level2">
-<h2 class="anchored" data-anchor-id="arctic-data-center">Arctic Data Center</h2>
-</section>
-<section id="permafrost-discovery-gateway" class="level2">
-<h2 class="anchored" data-anchor-id="permafrost-discovery-gateway">Permafrost Discovery Gateway</h2>
-</section>
-<section id="nasa-ames-research-center" class="level2">
-<h2 class="anchored" data-anchor-id="nasa-ames-research-center">NASA Ames Research Center</h2>
-</section>
-<section id="environmental-systems-dynamics-lab" class="level2">
-<h2 class="anchored" data-anchor-id="environmental-systems-dynamics-lab">Environmental Systems Dynamics Lab</h2>
-</section>
-<section id="climateai" class="level2">
-<h2 class="anchored" data-anchor-id="climateai">ClimateAi</h2>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
 
 
-</section>
 
-</main> <!-- /main -->
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="NCEAS,Arctic" data-listing-file-modified-sort="1748284250911" data-listing-reading-time-sort="0.445">
+<div class="thumbnail">
+<p><a href="./work/arctic-data-center/index.html"> <img src="./work/arctic-data-center/adc-logo.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./work/arctic-data-center/index.html">
+<h3 class="no-anchor listing-title">
+Arctic Data Center
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('NCEAS'); return false;">
+NCEAS
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Arctic'); return false;">
+Arctic
+</div>
+</div>
+<a href="./work/arctic-data-center/index.html">
+<div class="listing-description">
+<p>data curation, metadata, publishing, large data</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./work/arctic-data-center/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="NCEAS,Arctic" data-listing-file-modified-sort="1748284284200" data-listing-reading-time-sort="0.465">
+<div class="thumbnail">
+<p><a href="./work/permafrost-discovery-gateway/index.html"> <img src="./work/permafrost-discovery-gateway/pdg-logo.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./work/permafrost-discovery-gateway/index.html">
+<h3 class="no-anchor listing-title">
+Permafrost Discovery Gateway
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('NCEAS'); return false;">
+NCEAS
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Arctic'); return false;">
+Arctic
+</div>
+</div>
+<a href="./work/permafrost-discovery-gateway/index.html">
+<div class="listing-description">
+<p>geospatial data, visualization, large data</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./work/permafrost-discovery-gateway/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="NLP,Deep Learning" data-listing-file-modified-sort="1748284272264" data-listing-reading-time-sort="0.23">
+<div class="thumbnail">
+<p><a href="./work/nasa-ames/index.html"> <img src="./work/nasa-ames/ames-logo.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./work/nasa-ames/index.html">
+<h3 class="no-anchor listing-title">
+NASA Ames Research Center
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+NLP
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
+Deep Learning
+</div>
+</div>
+<a href="./work/nasa-ames/index.html">
+<div class="listing-description">
+<p>LLMs, transformers, NLP, deep learning</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./work/nasa-ames/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Hydrology,Deep Learning" data-listing-file-modified-sort="1748284324118" data-listing-reading-time-sort="0.475">
+<div class="thumbnail">
+<p><a href="./work/esdl/index.html"> <img src="./work/esdl/berkeley-geography.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./work/esdl/index.html">
+<h3 class="no-anchor listing-title">
+Environmental Systems Dynamics Lab
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Hydrology'); return false;">
+Hydrology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
+Deep Learning
+</div>
+</div>
+<a href="./work/esdl/index.html">
+<div class="listing-description">
+<p>LSTMs, deep learning</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./work/esdl/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Climate,Start Up" data-listing-file-modified-sort="1748284569782" data-listing-reading-time-sort="0.385">
+<div class="thumbnail">
+<p><a href="./work/climate-ai/index.html"> <img src="./work/climate-ai/climateai-logo.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./work/climate-ai/index.html">
+<h3 class="no-anchor listing-title">
+ClimateAi
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Climate'); return false;">
+Climate
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Start Up'); return false;">
+Start Up
+</div>
+</div>
+<a href="./work/climate-ai/index.html">
+<div class="listing-description">
+<p>climate data, time series</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./work/climate-ai/index.html"> </a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

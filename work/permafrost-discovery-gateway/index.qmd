@@ -1,0 +1,15 @@
+---
+title: "Permafrost Discovery Gateway"
+description: "geospatial data, visualization, large data"
+categories: [NCEAS, Arctic] # self-defined categories
+image: pdg-logo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Background
+
+Permafrost Discovery Gateway is an online platform in development for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge-generation about the changing Arctic landscape. Its tools provide access to very high resolution satellite data products across the Arctic for researchers, educators, and the public at large to explore and discover.
+
+## What I Do
+
+In my role as a Data Coordinator, I work with researchers to process their datasets through our visualization pipeline. I work on staging, tiling, and rasterizing their data so that it can be easily viewed through our data portal.

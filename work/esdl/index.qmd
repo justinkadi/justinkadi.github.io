@@ -1,0 +1,13 @@
+---
+title: "Environmental Systems Dynamics Lab"
+description: "LSTMs, deep learning"
+categories: [Hydrology, Deep Learning] # self-defined categories
+image: berkeley-geography.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Background
+The Environmental Systems Dynamics Laboratory, managed by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab's approach to problems integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management.
+
+## What I Did
+In my role as a Research Assistant, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future.

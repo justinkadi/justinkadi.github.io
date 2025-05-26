@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "work/esdl/index.html",
+    "href": "work/esdl/index.html",
+    "title": "Environmental Systems Dynamics Lab",
+    "section": "",
+    "text": "The Environmental Systems Dynamics Laboratory, managed by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab’s approach to problems integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management."
+  },
+  {
+    "objectID": "work/esdl/index.html#what-i-did",
+    "href": "work/esdl/index.html#what-i-did",
+    "title": "Environmental Systems Dynamics Lab",
+    "section": "What I Did",
+    "text": "What I Did\nIn my role as a Research Assistant, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future."
+  },
+  {
+    "objectID": "work/climate-ai/index.html",
+    "href": "work/climate-ai/index.html",
+    "title": "ClimateAi",
+    "section": "",
+    "text": "By applying AI to climate risk modeling, we provide short and long-term insights into weather and climate impact, helping businesses identify the actions needed today to adapt to the climate change disruptions of tomorrow."
+  },
+  {
+    "objectID": "work/climate-ai/index.html#what-i-did",
+    "href": "work/climate-ai/index.html#what-i-did",
+    "title": "ClimateAi",
+    "section": "What I Did",
+    "text": "What I Did\nIn my role as a Data Science Intern, I worked on creating more accurate short-term weather forecasts by using a multi-model approach. I tested different weighing schemes for the models based on different accuracy metrics across different regions around the world."
+  },
+  {
+    "objectID": "work/permafrost-discovery-gateway/index.html",
+    "href": "work/permafrost-discovery-gateway/index.html",
+    "title": "Permafrost Discovery Gateway",
+    "section": "",
+    "text": "Permafrost Discovery Gateway is an online platform in development for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge-generation about the changing Arctic landscape. Its tools provide access to very high resolution satellite data products across the Arctic for researchers, educators, and the public at large to explore and discover."
+  },
+  {
+    "objectID": "work/permafrost-discovery-gateway/index.html#what-i-do",
+    "href": "work/permafrost-discovery-gateway/index.html#what-i-do",
+    "title": "Permafrost Discovery Gateway",
+    "section": "What I Do",
+    "text": "What I Do\nIn my role as a Data Coordinator, I work with researchers to process their datasets through our visualization pipeline. I work on staging, tiling, and rasterizing their data so that it can be easily viewed through our data portal."
+  },
+  {
+    "objectID": "work/nasa-ames/index.html",
+    "href": "work/nasa-ames/index.html",
+    "title": "NASA Ames Research Center",
+    "section": "",
+    "text": "I worked with Nija Shi and Guillaume Brat in the Intelligent Systems Division on a project management tool to organize digital mission requirements, documents, and artifacts."
+  },
+  {
+    "objectID": "work/nasa-ames/index.html#what-i-do",
+    "href": "work/nasa-ames/index.html#what-i-do",
+    "title": "NASA Ames Research Center",
+    "section": "What I Do",
+    "text": "What I Do\nIn my role as a Research Data Scientist, I fine-tuned BERT transformer models to more accurately categorize documents."
+  },
+  {
+    "objectID": "work/arctic-data-center/index.html",
+    "href": "work/arctic-data-center/index.html",
+    "title": "Arctic Data Center",
+    "section": "",
+    "text": "The Arctic Data Center (ADC) is the primary data and software repository for the National Science Foundation (NSF)’s Office of Polar Programs (OPP). Our mission is to help the research community reproducibly preserve and discoover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model."
+  },
+  {
+    "objectID": "work/arctic-data-center/index.html#what-i-did",
+    "href": "work/arctic-data-center/index.html#what-i-did",
+    "title": "Arctic Data Center",
+    "section": "What I Did",
+    "text": "What I Did\nIn my role as a Data Coordinator, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog Posts",
@@ -35,39 +105,11 @@
     "text": "Undergraduate TA & Tutoring"
   },
   {
-    "objectID": "work.html#arctic-data-center",
-    "href": "work.html#arctic-data-center",
-    "title": "Justin Kadi",
-    "section": "Arctic Data Center",
-    "text": "Arctic Data Center"
-  },
-  {
-    "objectID": "work.html#permafrost-discovery-gateway",
-    "href": "work.html#permafrost-discovery-gateway",
-    "title": "Justin Kadi",
-    "section": "Permafrost Discovery Gateway",
-    "text": "Permafrost Discovery Gateway"
-  },
-  {
-    "objectID": "work.html#nasa-ames-research-center",
-    "href": "work.html#nasa-ames-research-center",
-    "title": "Justin Kadi",
-    "section": "NASA Ames Research Center",
-    "text": "NASA Ames Research Center"
-  },
-  {
-    "objectID": "work.html#environmental-systems-dynamics-lab",
-    "href": "work.html#environmental-systems-dynamics-lab",
-    "title": "Justin Kadi",
-    "section": "Environmental Systems Dynamics Lab",
-    "text": "Environmental Systems Dynamics Lab"
-  },
-  {
-    "objectID": "work.html#climateai",
-    "href": "work.html#climateai",
-    "title": "Justin Kadi",
-    "section": "ClimateAi",
-    "text": "ClimateAi"
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work & Past Projects",
+    "section": "",
+    "text": "Arctic Data Center\n\n\n\n\n\n\n\nNCEAS\n\n\nArctic\n\n\n\n\ndata curation, metadata, publishing, large data\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPermafrost Discovery Gateway\n\n\n\n\n\n\n\nNCEAS\n\n\nArctic\n\n\n\n\ngeospatial data, visualization, large data\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nNASA Ames Research Center\n\n\n\n\n\n\n\nNLP\n\n\nDeep Learning\n\n\n\n\nLLMs, transformers, NLP, deep learning\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEnvironmental Systems Dynamics Lab\n\n\n\n\n\n\n\nHydrology\n\n\nDeep Learning\n\n\n\n\nLSTMs, deep learning\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nClimateAi\n\n\n\n\n\n\n\nClimate\n\n\nStart Up\n\n\n\n\nclimate data, time series\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/2025-05-utqiagvik-trip/index.html",
