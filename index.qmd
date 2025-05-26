@@ -1,11 +1,21 @@
 ---
-title: "justinkadi.github.io"
+title: "Justin Kadi"
+image: media/kadi-photo.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/justin-kadi/
+    - text: GitHub
+      href: https://github.com/justinkadi
+    - text: Email
+      href: mailto:jeakadi@nceas.ucsb.edu
 ---
 
-This is a Quarto website.
+Hi there, and welcome to my portfolio! I'm an environmental data scientist, currently working at the National Center for Ecological Analysis and Synthesis (NCEAS) as a projects data coordinator. Specifically, I work with NSF's Arctic Data Center and on the Permafrost Discovery Gateway project.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm broadly interested in the intersection of data science with environmental and climate science. Before coming to NCEAS, I researched the use of deep learning models in hydrological forecasting at UC Berkeley, worked on short-term weather forecasts at ClimateAi, and worked on a language modeling research project at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.
 
-```{r}
-1 + 1
-```
+I received a B.A. Data Science with an emphasis in Earth Sciences at UC Berkeley in 2021, taking a mix of computer science, statistics, and earth science courses.
