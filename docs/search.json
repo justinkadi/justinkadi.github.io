@@ -1,16 +1,86 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog Posts",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Utqiagvik Field Work, September 2024\n\n\n\nNCEAS\n\n\nArctic\n\n\n\nReflections on my trip to Utqiagvik, Alaska with Ben Jones’ group\n\n\n\nJustin Kadi\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html#fundamentals-in-data-management-for-qualitative-and-quantitative-arctic-research",
+    "href": "teaching.html#fundamentals-in-data-management-for-qualitative-and-quantitative-arctic-research",
+    "title": "Justin Kadi",
+    "section": "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research",
+    "text": "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research"
+  },
+  {
+    "objectID": "teaching.html#reproducible-approaches-to-arctic-research-using-r",
+    "href": "teaching.html#reproducible-approaches-to-arctic-research-using-r",
+    "title": "Justin Kadi",
+    "section": "Reproducible Approaches to Arctic Research Using R",
+    "text": "Reproducible Approaches to Arctic Research Using R"
+  },
+  {
+    "objectID": "teaching.html#scalable-and-computationally-reproducible-approaches-to-arctic-research",
+    "href": "teaching.html#scalable-and-computationally-reproducible-approaches-to-arctic-research",
+    "title": "Justin Kadi",
+    "section": "Scalable and Computationally Reproducible Approaches to Arctic Research",
+    "text": "Scalable and Computationally Reproducible Approaches to Arctic Research"
+  },
+  {
+    "objectID": "teaching.html#undergraduate-ta-tutoring",
+    "href": "teaching.html#undergraduate-ta-tutoring",
+    "title": "Justin Kadi",
+    "section": "Undergraduate TA & Tutoring",
+    "text": "Undergraduate TA & Tutoring"
+  },
+  {
+    "objectID": "work.html#arctic-data-center",
+    "href": "work.html#arctic-data-center",
+    "title": "Justin Kadi",
+    "section": "Arctic Data Center",
+    "text": "Arctic Data Center"
+  },
+  {
+    "objectID": "work.html#permafrost-discovery-gateway",
+    "href": "work.html#permafrost-discovery-gateway",
+    "title": "Justin Kadi",
+    "section": "Permafrost Discovery Gateway",
+    "text": "Permafrost Discovery Gateway"
+  },
+  {
+    "objectID": "work.html#nasa-ames-research-center",
+    "href": "work.html#nasa-ames-research-center",
+    "title": "Justin Kadi",
+    "section": "NASA Ames Research Center",
+    "text": "NASA Ames Research Center"
+  },
+  {
+    "objectID": "work.html#environmental-systems-dynamics-lab",
+    "href": "work.html#environmental-systems-dynamics-lab",
+    "title": "Justin Kadi",
+    "section": "Environmental Systems Dynamics Lab",
+    "text": "Environmental Systems Dynamics Lab"
+  },
+  {
+    "objectID": "work.html#climateai",
+    "href": "work.html#climateai",
+    "title": "Justin Kadi",
+    "section": "ClimateAi",
+    "text": "ClimateAi"
+  },
+  {
+    "objectID": "blog/2025-05-utqiagvik-trip/index.html",
+    "href": "blog/2025-05-utqiagvik-trip/index.html",
+    "title": "Utqiagvik Field Work, September 2024",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{kadi2025,\n  author = {Justin Kadi},\n  title = {Utqiagvik {Field} {Work,} {September} 2024},\n  date = {2025-05-25},\n  url = {https://justinkadi.github.io/blog/2025-05-utqiagvik-trip/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nJustin Kadi. 2025. “Utqiagvik Field Work, September 2024.”\nMay 25, 2025. https://justinkadi.github.io/blog/2025-05-utqiagvik-trip/."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Justin Kadi",
     "section": "",
-    "text": "Hi there, and welcome to my portfolio! I’m an environmental data scientist, currently working at the National Center for Ecological Analysis and Synthesis (NCEAS) as a projects data coordinator. Specifically, I work with NSF’s Arctic Data Center and on the Permafrost Discovery Gateway project.\nI’m broadly interested in the intersection of data science with environmental and climate science. Before coming to NCEAS, I researched the use of deep learning models in hydrological forecasting at UC Berkeley, worked on short-term weather forecasts at ClimateAi, and worked on a language modeling research project at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.\nI received a B.A. Data Science with an emphasis in Earth Sciences at UC Berkeley in 2021, taking a mix of computer science, statistics, and earth science courses."
+    "text": "I’m Justin Kadi, and I’m an environmental data scientist currently working at the National Center for Ecological Analysis and Synthesis (NCEAS) as a projects data coordinator. Specifically, I work with NSF’s Arctic Data Center and on the Permafrost Discovery Gateway project.\nI’m broadly interested in the intersection of data science with environmental and climate science. Before coming to NCEAS, I researched the use of deep learning models in hydrological forecasting at UC Berkeley, worked on short-term weather forecasts at ClimateAi, and worked on a language modeling research project at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet."
   }
 ]

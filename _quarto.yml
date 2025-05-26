@@ -8,11 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: work.qmd
+        text: Work Experience
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
     page-layout: full

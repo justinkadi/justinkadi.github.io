@@ -1,0 +1,11 @@
+---
+
+---
+
+## Fundamentals in Data Management for Qualitative and Quantitative Arctic Research
+
+## Reproducible Approaches to Arctic Research Using R
+
+## Scalable and Computationally Reproducible Approaches to Arctic Research
+
+## Undergraduate TA & Tutoring

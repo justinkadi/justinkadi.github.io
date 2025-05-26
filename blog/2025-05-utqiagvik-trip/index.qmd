@@ -1,0 +1,18 @@
+---
+title: "Utqiagvik Field Work, September 2024"
+description: "Reflections on my trip to Utqiagvik, Alaska with Ben Jones' group"
+author:
+  - name: Justin Kadi
+    url: https://justinkadi.github.io/
+    orcid: 0009-0007-8384-5074
+    affiliation: National Center for Ecological Analysis & Synthesis
+    affiliation-url: https://www.nceas.ucsb.edu/
+date: 05-025-2025
+categories: [NCEAS, Arctic] # self-defined categories
+citation: 
+  url: https://justinkadi.github.io/blog/2025-05-utqiagvik-trip/ 
+image: utqiagvik-blog.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+
