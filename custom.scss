@@ -111,12 +111,46 @@ a {
 
 .quarto-listing-default .quarto-post {
   border-bottom: 1px solid $border-color; // override default divider
+}
 
-  .thumbnail img {
+// Thumbnails ------------------------------------------------------------------
+// Every thumbnail sits in a fixed frame: square on Experience, 16:9 on Research.
+// Photos fill (and crop to) the frame. Any image with "logo" in its filename
+// is shown whole on a white tile instead, so logos are never cropped.
+.quarto-listing-default .quarto-post .thumbnail {
+  flex: 0 0 9rem;
+  width: 9rem;
+  margin-right: 1.25rem;
+
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
     border-radius: 0.5rem;
-    object-fit: contain;
-    background-color: #fff;
-    padding: 0.5rem;
+  }
+}
+
+.quarto-grid-item .card-img {
+  width: 100%;
+  height: auto !important;   // override Quarto's inline height
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.quarto-post .thumbnail img[src*="logo"],
+.quarto-grid-item .card-img[src*="logo"] {
+  object-fit: contain;
+  background-color: #fff;
+  padding: 0.9rem;
+  border: 1px solid $border-color;
+}
+
+@media (max-width: 576px) {
+  .quarto-listing-default .quarto-post .thumbnail {
+    flex-basis: 6rem;
+    width: 6rem;
   }
 }
 

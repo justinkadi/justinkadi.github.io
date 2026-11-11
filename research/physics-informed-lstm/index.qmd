@@ -3,7 +3,7 @@ title: "Physics-Informed LSTMs for Streamflow"
 description: "Adding physical constraints to LSTM neural networks to forecast watershed discharge, and checking whether their internal states track real hydrologic processes."
 date: 2020-08-01
 categories: [Hydrology, Deep Learning]
-image: thumbnail.jpg
+image: logo.jpg
 ---
 
 ## Overview

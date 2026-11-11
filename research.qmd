@@ -5,7 +5,6 @@ listing:
   contents: research
   type: grid
   grid-columns: 2
-  image-height: 220px
   fields: [image, title, description, categories]
   sort: "date desc"
   categories: true

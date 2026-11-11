@@ -3,7 +3,7 @@ title: "Meta-Model Weather Forecasting"
 description: "Combining public and private weather forecasts into a weighted ensemble that beat the best single vendor by 20%."
 date: 2020-06-01
 categories: [Climate, Forecasting]
-image: thumbnail.jpeg
+image: logo.jpeg
 ---
 
 ## Overview

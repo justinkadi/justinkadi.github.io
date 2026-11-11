@@ -32,15 +32,14 @@ I'm broadly interested in the intersection of data science with environmental an
 
 Before coming to NCEAS, I researched physics-informed deep learning models for streamflow forecasting at UC Berkeley, built short-term weather forecast ensembles at ClimateAi, and developed a semantic search system for mission documents at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.
 
-::: {.grid}
-
+::::::: grid
 ::: {.g-col-12 .g-col-md-6}
 ### Interests
 
--   Arctic & permafrost science
--   Geospatial data processing & visualization
--   Machine learning for earth systems
--   Reproducible & scalable research workflows
+- Arctic & permafrost science
+- Geospatial data processing & visualization
+- Machine learning for earth systems
+- Reproducible & scalable research workflows
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -56,17 +55,15 @@ Lund University, Sweden
 ::: {.g-col-12 .g-col-md-6}
 ### Skills
 
--   **Programming:** Python, R, bash, SQL
--   **Software:** GIS, Cesium, Git
--   **Languages:** Indonesian (fluent), Japanese (conversational)
+- **Programming:** Python, R, bash, SQL
+- **Software:** GIS, Cesium, Git
+- **Languages:** Indonesian (fluent), Japanese (conversational)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### Service
 
--   NCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)
--   UC Berkeley Data Science Career Mentor (2025–2026)
--   Letters to a Pre-Scientist Volunteer (2026)
+- NCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)
+- UC Berkeley Data Science Career Mentor (2025–2026)
 :::
-
-:::
+:::::::

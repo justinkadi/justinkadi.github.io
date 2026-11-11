@@ -3,12 +3,14 @@ title: "Semantic Search for NASA Mission Documents"
 description: "Fine-tuned BERT models and a question answering tool that cut months from NASA's document auditing process."
 date: 2021-08-01
 categories: [NLP, Deep Learning]
-image: thumbnail.jpeg
+image: pipeline.svg
 ---
 
 ## Overview
 
 NASA missions produce thousands of requirements documents, reports, and artifacts that reviewers must search through for evidence. In the Intelligent Systems Division at NASA Ames, working with Nija Shi and Guillaume Brat, I developed a semantic search and question answering system, built into a project management dashboard, to speed up this auditing process.
+
+![How the system works: project documents are processed through an ETL pipeline and fine-tuned BERT models into an Elasticsearch index, which powers a search and question answering dashboard for mission reviewers.](pipeline.svg){fig-alt="Pipeline diagram: 2,000+ mission documents flow into fine-tuned BERT models, then an Elasticsearch index, then a search and question answering dashboard."}
 
 ## My Role
 
