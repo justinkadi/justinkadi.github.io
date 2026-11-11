@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Arctic / earth palette (dark) — overrides the values in custom.scss.
+// Polar-night background with glacier and aurora-green accents.
+$navy:      #0b1620 !default;  // navbar / deepest surface
+$glacier:   #7cc4e0 !default;  // glacier blue, brightened for contrast
+$tundra:    #8fc28c !default;  // tundra green, brightened
+$sand:      #162533 !default;  // raised panels
+$ink:       #dbe4ea !default;  // body text
+$paper:     #0f1b26 !default;  // page background
+$muted:     #9aabb8 !default;
+$rule:      #24384a !default;
+
+$headings-color: #e9f1f6 !default;
+$primary:  #7cc4e0 !default;
+
+$navbar-bg: #0b1620 !default;
+$navbar-fg: #dbe4ea !default;
+$navbar-hl: #7cc4e0 !default;
+$footer-bg: #0b1620 !default;
+$footer-fg: #9aabb8 !default;

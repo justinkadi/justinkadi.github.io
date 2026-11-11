@@ -1,0 +1,23 @@
+---
+title: "National Center for Ecological Analysis & Synthesis"
+subtitle: "Projects Data Coordinator · Oct 2023 – Present · Santa Barbara, CA"
+description: "Arctic data curation & publishing, permafrost geospatial visualization, HPC workflows, and teaching for the NSF Arctic Data Center and Permafrost Discovery Gateway."
+date: 2023-10-01
+categories: [Arctic, Geospatial, Data Management]
+image: adc-logo.png
+---
+
+## Background
+
+The [Arctic Data Center](https://arcticdata.io/) (ADC) is the primary data and software repository for the National Science Foundation (NSF)'s Office of Polar Programs (OPP). Its mission is to help the research community reproducibly preserve and discover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model.
+
+The [Permafrost Discovery Gateway](https://permafrost.arcticdata.io/) (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products, giving researchers, educators, and the public access to very high resolution satellite-derived data across the Arctic.
+
+## What I Do
+
+-   Direct the archival, curation, and publishing of **340+ TB** of research data through the Arctic Data Center in R, working with geospatial vectors & rasters, climate model output, large cloud-optimized formats, survey data, and more
+-   Process and visualize pan-Arctic permafrost datasets derived from machine learning models and satellite imagery for the Permafrost Discovery Gateway ([more on this project](../../research/permafrost-visualization/index.qmd))
+-   Develop open-source software tools in R & Python and deploy automated, parallelized workflows on UCSB's high-performance computing clusters
+-   Collaboratively manage multi-TB databases and metadata to increase accessibility and reproducibility
+-   Manage and mentor a team of 5+ interns on data processing tasks
+-   Teach 3 annual courses to researchers on reproducible workflows & scalable computing ([see Teaching](../../teaching.qmd))

@@ -1,0 +1,27 @@
+---
+title: "Pan-Arctic Permafrost Visualization"
+description: "Turning machine-learning-derived permafrost maps into interactive 2D & 3D web tiles for the Permafrost Discovery Gateway."
+date: 2023-10-01
+categories: [Arctic, Geospatial, Visualization]
+image: thumbnail.jpg
+---
+
+## Overview
+
+The [Permafrost Discovery Gateway](https://permafrost.arcticdata.io/) (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge generation about the changing Arctic landscape. It gives researchers, educators, and the public access to very high resolution, satellite-derived data products across the Arctic.
+
+## My Role
+
+I work with researchers to process their datasets through the PDG visualization pipeline: staging, tiling, and rasterizing large vector and raster datasets so they can be explored in the data portal. Many of these datasets are pan-Arctic products derived from machine learning models applied to satellite imagery.
+
+-   Run automated, parallelized tiling workflows on UCSB's high-performance computing clusters
+-   Contribute to open-source tooling for Cesium 3D tiling
+
+## Tools
+
+Python · R · GIS · Cesium · HPC / parallel computing
+
+## Outputs
+
+-   **Software:** Thiessen-Bock, R., Cohen, J., Jones, M., Walker, L., Nenuji, R., Kosobokova, A., Regetz, J., **Kadi, J.** (2026). *Viz-3dtiles: Cesium 3D Tiling for Geospatial Visualization* (v1.1.0). Arctic Data Center. [doi:10.18739/A2W669B4Q](https://doi.org/10.18739/A2W669B4Q)
+-   **Portal:** [permafrost.arcticdata.io](https://permafrost.arcticdata.io/)

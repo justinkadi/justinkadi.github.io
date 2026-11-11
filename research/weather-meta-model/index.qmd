@@ -1,0 +1,26 @@
+---
+title: "Meta-Model Weather Forecasting"
+description: "Combining public and private weather forecasts into a weighted ensemble that beat the best single vendor by 20%."
+date: 2020-06-01
+categories: [Climate, Forecasting]
+image: thumbnail.jpeg
+---
+
+## Overview
+
+No single weather forecast is best everywhere. At ClimateAi, I built a meta-model that combines several public and private forecasts, weighting each one by its recent skill at each location and lead time, to produce more accurate short-term forecasts of mean temperature and precipitation.
+
+## My Role
+
+-   Designed a multi-model ensemble algorithm combining **6 data sources**, with separate weights for **30 customer locations** and **4 lead times**
+-   Improved short-term forecasts by **20%** over the best vendor's model
+-   Built automated Google Cloud pipelines for geospatial data extraction, preprocessing, and forecast skill & uncertainty analysis, updating the model weights weekly
+-   Presented Tableau map visualizations comparing our model's performance with competitors'
+
+## Tools
+
+Python · Xarray · pandas · Google Cloud · Tableau
+
+## Outputs
+
+-   **Kadi, J.**, Ahmadalipour, A., Evans, M. C. *Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts.* AGU Fall Meeting, 2020. Poster.

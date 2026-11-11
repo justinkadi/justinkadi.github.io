@@ -1,21 +1,72 @@
 ---
 title: "Justin Kadi"
+subtitle: "Environmental Data Scientist"
 image: media/kadi-photo.jpg
 about:
   template: trestles
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/justin-kadi/
-    - text: GitHub
-      href: https://github.com/justinkadi
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:jeakadi@nceas.ucsb.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/justinkadi
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/justin-kadi/
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=8SUgB5kAAAAJ
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0009-0007-8384-5074
 ---
 
 ## Welcome!
 
-I'm Justin Kadi, and I'm an environmental data scientist currently working at the National Center for Ecological Analysis and Synthesis (NCEAS) as a projects data coordinator. Specifically, I work with NSF's [Arctic Data Center](https://arcticdata.io/) and on the [Permafrost Discovery Gateway](https://permafrost.arcticdata.io/) project.
+I'm Justin Kadi, an environmental data scientist working at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) at UC Santa Barbara as a Projects Data Coordinator. I work with NSF's [Arctic Data Center](https://arcticdata.io/) (ADC), where I curate and publish 340+ TB of Arctic research data, and on the [Permafrost Discovery Gateway](https://permafrost.arcticdata.io/) (PDG), where I process and visualize pan-Arctic permafrost datasets.
 
-I'm broadly interested in the intersection of data science with environmental and climate science. Before coming to NCEAS, I researched the use of deep learning models in hydrological forecasting at UC Berkeley, worked on short-term weather forecasts at ClimateAi, and worked on a language modeling research project at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.
+I'm broadly interested in the intersection of data science with environmental and climate science. Currently, I'm learning more about geospatial data processing and its use cases in environmental projects.
+
+Before coming to NCEAS, I researched physics-informed deep learning models for streamflow forecasting at UC Berkeley, built short-term weather forecast ensembles at ClimateAi, and developed a semantic search system for mission documents at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Interests
+
+-   Arctic & permafrost science
+-   Geospatial data processing & visualization
+-   Machine learning for earth systems
+-   Reproducible & scalable research workflows
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Education
+
+**B.A. Data Science**, emphasis in Earth Science\
+University of California, Berkeley, 2021
+
+**Study Abroad**, Statistics & Mathematics\
+Lund University, Sweden
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Skills
+
+-   **Programming:** Python, R, bash, SQL
+-   **Software:** GIS, Cesium, Git
+-   **Languages:** Indonesian (fluent), Japanese (conversational)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Service
+
+-   NCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)
+-   UC Berkeley Data Science Career Mentor (2025–2026)
+-   Letters to a Pre-Scientist Volunteer (2026)
+:::
+
+:::
