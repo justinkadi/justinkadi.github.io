@@ -20,15 +20,5 @@
       "/research/physics-informed-lstm/index.html",
       "/research/weather-meta-model/index.html"
     ]
-  },
-  {
-    "listing": "/experience.html",
-    "items": [
-      "/experience/nceas/index.html",
-      "/experience/utqiagvik-fieldwork/index.html",
-      "/experience/nasa-ames/index.html",
-      "/experience/esdl/index.html",
-      "/experience/climate-ai/index.html"
-    ]
   }
 ]
