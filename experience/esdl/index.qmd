@@ -2,7 +2,6 @@
 title: "Environmental Systems Dynamics Lab, UC Berkeley"
 subtitle: "Research Assistant · Aug 2020 – Aug 2021 · Berkeley, CA"
 description: "Physics-informed LSTM neural networks for forecasting watershed discharge."
-date: 2020-08-01
 categories: [Hydrology, Deep Learning]
 image: berkeley-geography-logo.jpg
 ---

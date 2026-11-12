@@ -2,7 +2,6 @@
 title: "National Center for Ecological Analysis & Synthesis"
 subtitle: "Projects Data Coordinator · Oct 2023 – Present · Santa Barbara, CA"
 description: "Arctic data curation & publishing, permafrost geospatial visualization, HPC workflows, and teaching for the NSF Arctic Data Center and Permafrost Discovery Gateway."
-date: 2023-10-01
 categories: [Arctic, Geospatial, Data Management]
 image: adc-logo.png
 ---

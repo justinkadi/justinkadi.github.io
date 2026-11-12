@@ -34,11 +34,11 @@ Garcia, A., Jones, M. B., **Kadi, J.**, Klope, M., & Vargas Poulsen, C. (2024). 
 
 **Kadi, J.** An Introduction to the Arctic Data Center. *Utqiagvik Community Meeting*, 2024. Oral presentation.
 
-Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. *AGU Fall Meeting*, 2022. Poster.
+Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. *AGU Fall Meeting*, 2022. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H31E..01Z/abstract)
 
-Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. *AGU Fall Meeting*, 2021. Poster.
+Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. *AGU Fall Meeting*, 2021. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.H35S1248Z/abstract)
 
-**Kadi, J.**, Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. *AGU Fall Meeting*, 2020. Poster.
+**Kadi, J.**, Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. *AGU Fall Meeting*, 2020. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2020AGUFMIN0310004K/abstract)
 
 **Kadi, J.**, & Chan, E. Exploring Language-Independent Phonetic Transcription. *Berkeley Division of Data Science Research Keynote*, 2019. Oral presentation.
 

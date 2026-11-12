@@ -22,6 +22,21 @@ about:
     - icon: person-vcard
       text: ORCID
       href: https://orcid.org/0009-0007-8384-5074
+date-modified: today
+date-format: "MMMM D, YYYY"
+listing:
+  id: featured-research
+  # listed in display order (first two are featured)
+  contents:
+    - research/permafrost-visualization
+    - research/nasa-semantic-search
+    - research/physics-informed-lstm
+    - research/weather-meta-model
+  type: grid
+  grid-columns: 2
+  max-items: 2
+  sort: false
+  fields: [image, title, description]
 ---
 
 ## Welcome!
@@ -67,3 +82,12 @@ Lund University, Sweden
 - UC Berkeley Data Science Career Mentor (2025–2026)
 :::
 :::::::
+
+## Featured Research
+
+::: {#featured-research}
+:::
+
+[See all research →](research.qmd){.btn .btn-outline-primary .btn-sm}
+
+[Last updated: {{< meta date-modified >}}]{.last-updated}

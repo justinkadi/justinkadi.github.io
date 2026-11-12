@@ -1,7 +1,6 @@
 ---
 title: "Pan-Arctic Permafrost Visualization"
 description: "Turning machine-learning-derived permafrost maps into interactive 2D & 3D web tiles for the Permafrost Discovery Gateway."
-date: 2023-10-01
 categories: [Arctic, Geospatial, Visualization]
 image: thumbnail.jpg
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Semantic Search for NASA Mission Documents"
 description: "Fine-tuned BERT models and a question answering tool that cut months from NASA's document auditing process."
-date: 2021-08-01
 categories: [NLP, Deep Learning]
 image: pipeline.svg
 ---

@@ -2,10 +2,15 @@
 title: "Research & Projects"
 subtitle: "Data pipelines, visualization, and machine learning for earth and environmental systems."
 listing:
-  contents: research
+  # listed in display order (newest first)
+  contents:
+    - research/permafrost-visualization
+    - research/nasa-semantic-search
+    - research/physics-informed-lstm
+    - research/weather-meta-model
   type: grid
   grid-columns: 2
   fields: [image, title, description, categories]
-  sort: "date desc"
+  sort: false
   categories: true
 ---

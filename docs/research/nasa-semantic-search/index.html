@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2021-08-01">
 <meta name="description" content="Fine-tuned BERT models and a question answering tool that cut months from NASA’s document auditing process.">
 
 <title>Semantic Search for NASA Mission Documents – Justin Kadi</title>
@@ -51,9 +50,12 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-07db78c56791bba07f687fee2da29c4d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-4d96a3c827d5b706f3ba08b7d4ad6a46.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-07db78c56791bba07f687fee2da29c4d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d1524b346095afe4f732439f59f9e410.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-15e7110fd08124435f32dc043c35387c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-d1524b346095afe4f732439f59f9e410.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,7 +68,6 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -81,6 +82,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -348,12 +350,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta column-page">
 
       
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">August 1, 2021</p>
-      </div>
-    </div>
     
       
     </div>
@@ -376,7 +372,7 @@ ul.task-list li input[type="checkbox"] {
 <p>NASA missions produce thousands of requirements documents, reports, and artifacts that reviewers must search through for evidence. In the Intelligent Systems Division at NASA Ames, working with Nija Shi and Guillaume Brat, I developed a semantic search and question answering system, built into a project management dashboard, to speed up this auditing process.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="pipeline.svg" class="img-fluid figure-img" alt="Pipeline diagram: 2,000+ mission documents flow into fine-tuned BERT models, then an Elasticsearch index, then a search and question answering dashboard."></p>
+<p><a href="pipeline.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="How the system works: project documents are processed through an ETL pipeline and fine-tuned BERT models into an Elasticsearch index, which powers a search and question answering dashboard for mission reviewers."><img src="pipeline.svg" class="img-fluid figure-img" alt="Pipeline diagram: 2,000+ mission documents flow into fine-tuned BERT models, then an Elasticsearch index, then a search and question answering dashboard."></a></p>
 <figcaption>How the system works: project documents are processed through an ETL pipeline and fine-tuned BERT models into an Elasticsearch index, which powers a search and question answering dashboard for mission reviewers.</figcaption>
 </figure>
 </div>
@@ -942,8 +938,41 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
 
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

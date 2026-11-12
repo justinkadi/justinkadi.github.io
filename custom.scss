@@ -91,6 +91,55 @@ a {
     border-bottom: none;
     margin-top: 0;
   }
+
+  // On narrow screens the template stacks the layout; keep the link
+  // buttons inside the viewport instead of overflowing to the right.
+  @media (max-width: 991.98px) {
+    .about-entity {
+      padding-right: 0;
+      width: 100%;
+      max-width: 100%;
+    }
+    .about-entity .about-links {
+      box-sizing: border-box;
+      max-width: 22rem;
+      margin-inline: auto;
+    }
+  }
+}
+
+// Home page banner ----------------------------------------------------------
+// Only the home page uses the about template, so :has() scopes this to it.
+// The photo spans the full width above the profile, fading into the page.
+#quarto-content:has(.quarto-about-trestles) {
+  position: relative;
+  padding-top: clamp(140px, 22vw, 300px);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: clamp(160px, 24vw, 330px);
+    background:
+      linear-gradient(to bottom, rgba($body-bg, 0) 55%, $body-bg 100%),
+      url("/media/utqiagvik-banner.jpg") center 48% / cover no-repeat;
+    z-index: 0;
+  }
+
+  > * { position: relative; z-index: 1; }
+}
+
+// "Last updated" note at the bottom of the home page
+.last-updated {
+  display: block;
+  margin-top: 2.5rem;
+  font-size: 0.85rem;
+  color: $muted;
+}
+
+// Featured research on the home page: a bit tighter than the Research page
+#featured-research .quarto-grid-item .card-text {
+  font-size: 0.95rem;
 }
 
 // Listings (work + blog) -----------------------------------------------------

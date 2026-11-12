@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - media/utqiagvik-banner.jpg
 
 website:
   title: "Justin Kadi"
@@ -8,6 +10,9 @@ website:
   site-url: https://justinkadi.github.io
   favicon: media/kadi-photo.jpg
   open-graph: true
+  search:
+    location: navbar
+    type: overlay
   navbar:
     left:
       - href: index.qmd
@@ -48,5 +53,7 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    lightbox: auto
+    smooth-scroll: true
 
 editor: visual

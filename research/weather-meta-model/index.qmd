@@ -1,7 +1,6 @@
 ---
 title: "Meta-Model Weather Forecasting"
 description: "Combining public and private weather forecasts into a weighted ensemble that beat the best single vendor by 20%."
-date: 2020-06-01
 categories: [Climate, Forecasting]
 image: logo.jpeg
 ---
@@ -23,4 +22,4 @@ Python · Xarray · pandas · Google Cloud · Tableau
 
 ## Outputs
 
--   **Kadi, J.**, Ahmadalipour, A., Evans, M. C. *Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts.* AGU Fall Meeting, 2020. Poster.
+-   **Kadi, J.**, Ahmadalipour, A., Evans, M. C. *Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts.* AGU Fall Meeting, 2020. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2020AGUFMIN0310004K/abstract)

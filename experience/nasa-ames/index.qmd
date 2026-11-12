@@ -2,7 +2,6 @@
 title: "NASA Ames Research Center"
 subtitle: "Research Data Scientist (via KBR Inc.) · Aug 2021 – Mar 2023 · Mountain View, CA"
 description: "Semantic search and question answering over mission documents using fine-tuned BERT transformer models."
-date: 2021-08-01
 categories: [NLP, Deep Learning]
 image: nasa-ames-logo.jpeg
 ---

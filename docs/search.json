@@ -21,6 +21,13 @@
     "text": "I’m Justin Kadi, an environmental data scientist working at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara as a Projects Data Coordinator. I work with NSF’s Arctic Data Center (ADC), where I curate and publish 340+ TB of Arctic research data, and on the Permafrost Discovery Gateway (PDG), where I process and visualize pan-Arctic permafrost datasets.\nI’m broadly interested in the intersection of data science with environmental and climate science. Currently, I’m learning more about geospatial data processing and its use cases in environmental projects.\nBefore coming to NCEAS, I researched physics-informed deep learning models for streamflow forecasting at UC Berkeley, built short-term weather forecast ensembles at ClimateAi, and developed a semantic search system for mission documents at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.\n\n\n\n\nArctic & permafrost science\nGeospatial data processing & visualization\nMachine learning for earth systems\nReproducible & scalable research workflows\n\n\n\n\nB.A. Data Science, emphasis in Earth Science\nUniversity of California, Berkeley, 2021\nStudy Abroad, Statistics & Mathematics\nLund University, Sweden\n\n\n\n\nProgramming: Python, R, bash, SQL\nSoftware: GIS, Cesium, Git\nLanguages: Indonesian (fluent), Japanese (conversational)\n\n\n\n\n\nNCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)\nUC Berkeley Data Science Career Mentor (2025–2026)"
   },
   {
+    "objectID": "index.html#featured-research",
+    "href": "index.html#featured-research",
+    "title": "Justin Kadi",
+    "section": "Featured Research",
+    "text": "Featured Research\n\n\n\n\n\n\n\n\n\n\nPan-Arctic Permafrost Visualization\n\n\nTurning machine-learning-derived permafrost maps into interactive 2D & 3D web tiles for the Permafrost Discovery Gateway.\n\n\n\n\n\n\n\n\n\n\n\n\nSemantic Search for NASA Mission Documents\n\n\nFine-tuned BERT models and a question answering tool that cut months from NASA’s document auditing process.\n\n\n\n\n\nNo matching items\n\nSee all research →\nLast updated: November 11, 2026"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -242,7 +249,7 @@
     "href": "research/physics-informed-lstm/index.html#outputs",
     "title": "Physics-Informed LSTMs for Streamflow",
     "section": "Outputs",
-    "text": "Outputs\n\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster.\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster."
+    "text": "Outputs\n\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster. Abstract\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster. Abstract"
   },
   {
     "objectID": "research/weather-meta-model/index.html",
@@ -277,7 +284,7 @@
     "href": "research/weather-meta-model/index.html#outputs",
     "title": "Meta-Model Weather Forecasting",
     "section": "Outputs",
-    "text": "Outputs\n\nKadi, J., Ahmadalipour, A., Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster."
+    "text": "Outputs\n\nKadi, J., Ahmadalipour, A., Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster. Abstract"
   },
   {
     "objectID": "research.html",
@@ -333,6 +340,6 @@
     "href": "publications.html#posters-presentations",
     "title": "Publications & Presentations",
     "section": "Posters & Presentations",
-    "text": "Posters & Presentations\nKadi, J. An Introduction to the Arctic Data Center. Utqiagvik Community Meeting, 2024. Oral presentation.\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster.\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster.\nKadi, J., Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster.\nKadi, J., & Chan, E. Exploring Language-Independent Phonetic Transcription. Berkeley Division of Data Science Research Keynote, 2019. Oral presentation.\nKadi, J. Enhanced Requirement Traceability Using Recurrent Neural Networks. NASA Research Poster Symposium, 2019. Poster."
+    "text": "Posters & Presentations\nKadi, J. An Introduction to the Arctic Data Center. Utqiagvik Community Meeting, 2024. Oral presentation.\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster. Abstract\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster. Abstract\nKadi, J., Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster. Abstract\nKadi, J., & Chan, E. Exploring Language-Independent Phonetic Transcription. Berkeley Division of Data Science Research Keynote, 2019. Oral presentation.\nKadi, J. Enhanced Requirement Traceability Using Recurrent Neural Networks. NASA Research Poster Symposium, 2019. Poster."
   }
 ]

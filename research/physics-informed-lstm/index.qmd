@@ -1,7 +1,6 @@
 ---
 title: "Physics-Informed LSTMs for Streamflow"
 description: "Adding physical constraints to LSTM neural networks to forecast watershed discharge, and checking whether their internal states track real hydrologic processes."
-date: 2020-08-01
 categories: [Hydrology, Deep Learning]
 image: logo.jpg
 ---
@@ -23,5 +22,5 @@ Python · PyTorch · time series cross-validation
 
 ## Outputs
 
--   Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., Larsen, L. *Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA.* AGU Fall Meeting, 2021. Poster.
--   Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., Larsen, L. *A physics-informed machine learning model for streamflow prediction.* AGU Fall Meeting, 2022. Poster.
+-   Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., Larsen, L. *Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA.* AGU Fall Meeting, 2021. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.H35S1248Z/abstract)
+-   Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., Larsen, L. *A physics-informed machine learning model for streamflow prediction.* AGU Fall Meeting, 2022. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H31E..01Z/abstract)
