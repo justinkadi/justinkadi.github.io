@@ -142,6 +142,78 @@ a {
   font-size: 0.95rem;
 }
 
+// Experience timeline -----------------------------------------------------------
+// One card per role: logo tile on the left, details on the right.
+.xp-item {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  background-color: $panel-bg;
+  border: 1px solid $border-color;
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  max-width: 54rem;
+
+  .xp-logo {
+    flex: 0 0 6rem;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 0.5rem;
+    object-fit: contain;
+    background-color: #fff;
+    padding: 0.6rem;
+    border: 1px solid $border-color;
+  }
+
+  .xp-photo {
+    object-fit: cover;
+    padding: 0;
+  }
+
+  .xp-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.6rem;
+    color: $primary;
+  }
+
+  .xp-body {
+    flex: 1;
+    min-width: 0;
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 0.25rem;
+      font-size: 1.25rem;
+    }
+    p { margin-bottom: 0.6rem; }
+    ul { margin-bottom: 0.6rem; padding-left: 1.2rem; }
+    li { margin-bottom: 0.2rem; }
+  }
+
+  .xp-meta {
+    color: $muted;
+    font-size: 0.9rem;
+  }
+
+  .xp-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+
+  @media (max-width: 576px) {
+    flex-direction: column;
+    gap: 0.9rem;
+    padding: 1rem 1.1rem;
+
+    .xp-logo { flex-basis: auto; width: 4.5rem; height: 4.5rem; }
+  }
+}
+
 // Listings (work + blog) -----------------------------------------------------
 .quarto-listing-default .quarto-post,
 .quarto-grid-item {

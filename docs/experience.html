@@ -37,8 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./media/kadi-photo.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
@@ -51,9 +49,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d1524b346095afe4f732439f59f9e410.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-15e7110fd08124435f32dc043c35387c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-d1524b346095afe4f732439f59f9e410.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f64739d297e60ddfa65be6c963070b20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-1784c02fe4585ff778ca079a3e8dc8b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f64739d297e60ddfa65be6c963070b20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,65 +78,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Experience – Justin Kadi">
+<meta property="og:description" content="Where I’ve worked and what I did there. For project details, methods, and outputs, see Research.">
 <meta property="og:image" content="https://justinkadi.github.io/experience/nceas/adc-logo.png">
 <meta property="og:site_name" content="Justin Kadi">
+<meta property="og:image:alt" content="Arctic Data Center logo">
 <meta property="og:image:height" content="156">
 <meta property="og:image:width" content="284">
 </head>
@@ -384,20 +332,20 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QXJjdGlj">Arctic <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2xpbWF0ZQ==">Climate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyME1hbmFnZW1lbnQ=">Data Management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGVlcCUyMExlYXJuaW5n">Deep Learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RmllbGQlMjBXb3Jr">Field Work <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yZWNhc3Rpbmc=">Forecasting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2Vvc3BhdGlhbA==">Geospatial <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SHlkcm9sb2d5">Hydrology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TkxQ">NLP <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content" tabindex="-1">
+<main class="content column-page" id="quarto-document-content" tabindex="-1">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Experience</h1>
+<p class="subtitle lead">Where I’ve worked and what I did there. For project details, methods, and outputs, see <a href="./research.html">Research</a>.</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -409,167 +357,84 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QXJjdGljJTJDR2Vvc3BhdGlhbCUyQ0RhdGElMjBNYW5hZ2VtZW50" data-listing-file-modified-sort="1794441942773" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
-<div class="thumbnail"><a href="./experience/nceas/index.html" class="no-external-icon">
-
-<img loading="lazy" src="./experience/nceas/adc-logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./experience/nceas/index.html" class="no-external-icon">National Center for Ecological Analysis &amp; Synthesis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./experience/nceas/index.html" class="no-external-icon">Projects Data Coordinator · Oct 2023 – Present · Santa Barbara, CA</a>
+<div class="xp-item">
+<p><img src="experience/nceas/adc-logo.png" alt="Arctic Data Center logo" class="xp-logo no-lightbox"></p>
+<section id="projects-data-coordinator" class="level3 xp-body">
+<h3 class="anchored" data-anchor-id="projects-data-coordinator">Projects Data Coordinator</h3>
+<p><strong>National Center for Ecological Analysis &amp; Synthesis, UC Santa Barbara</strong><br>
+<span class="xp-meta">Oct 2023 – Present · Santa Barbara, CA</span></p>
+<p>Curate and publish Arctic research data for the NSF <a href="https://arcticdata.io/">Arctic Data Center</a> and process permafrost datasets for the <a href="https://permafrost.arcticdata.io/">Permafrost Discovery Gateway</a>.</p>
+<ul>
+<li>Direct the archival, curation, and publishing of <strong>340+ TB</strong> of research data, from geospatial rasters &amp; vectors to climate model output and survey data</li>
+<li>Build open-source R &amp; Python tools and run parallelized workflows on UCSB’s HPC clusters</li>
+<li>Mentor a team of <strong>5+ interns</strong> and teach <strong>3 annual courses</strong> on reproducible &amp; scalable research (<a href="./teaching.html">Teaching</a>)</li>
+</ul>
+<p><a href="./research/permafrost-visualization/index.html" class="xp-link">Related project: Pan-Arctic Permafrost Visualization →</a></p>
+</section>
 </div>
-<div class="listing-categories">
+<div class="xp-item">
+<p><img src="experience/nasa-ames/nasa-ames-logo.jpeg" alt="NASA Ames Research Center logo" class="xp-logo no-lightbox"></p>
+<section id="research-data-scientist" class="level3 xp-body">
+<h3 class="anchored" data-anchor-id="research-data-scientist">Research Data Scientist</h3>
+<p><strong>NASA Ames Research Center</strong> (via KBR Inc.)<br>
+<span class="xp-meta">Aug 2021 – Mar 2023 · Mountain View, CA</span></p>
+<p>Built semantic search and question answering tools for mission documents in the Intelligent Systems Division, with Nija Shi and Guillaume Brat.</p>
+<ul>
+<li>Search system used on <strong>3 missions</strong>, covering 2,000+ project documents</li>
+<li>Improved correct retrieval by <strong>30+%</strong> by fine-tuning BERT models on NASA phrases &amp; acronyms</li>
+<li>Sped up document auditing by <strong>3+ months</strong></li>
+</ul>
+<p><a href="./research/nasa-semantic-search/index.html" class="xp-link">Related project: Semantic Search for NASA Mission Documents →</a></p>
+</section>
+</div>
+<div class="xp-item">
+<p><img src="experience/esdl/berkeley-geography-logo.jpg" alt="Berkeley Geography logo" class="xp-logo no-lightbox"></p>
+<section id="research-assistant" class="level3 xp-body">
+<h3 class="anchored" data-anchor-id="research-assistant">Research Assistant</h3>
+<p><strong>Environmental Systems Dynamics Lab, UC Berkeley</strong> (advised by Laurel Larsen)<br>
+<span class="xp-meta">Aug 2020 – Aug 2021 · Berkeley, CA</span></p>
+<p>Developed physics-informed LSTM neural networks in PyTorch to forecast watershed discharge.</p>
+<ul>
+<li>Improved model accuracy by <strong>5%</strong> by adding physics-based constraints</li>
+<li>Tested robustness across <strong>30 watershed datasets</strong> in varying climates</li>
+<li>Co-authored posters at the AGU Fall Meeting (2021, 2022)</li>
+</ul>
+<p><a href="./research/physics-informed-lstm/index.html" class="xp-link">Related project: Physics-Informed LSTMs for Streamflow →</a></p>
+</section>
+</div>
+<div class="xp-item">
+<p><img src="experience/climate-ai/climateai-logo.jpeg" alt="ClimateAi logo" class="xp-logo no-lightbox"></p>
+<section id="data-science-intern" class="level3 xp-body">
+<h3 class="anchored" data-anchor-id="data-science-intern">Data Science Intern</h3>
+<p><strong>ClimateAi</strong><br>
+<span class="xp-meta">Jun 2020 – Aug 2020 · San Francisco, CA</span></p>
+<p>Built a multi-model ensemble for short-term temperature and precipitation forecasts.</p>
+<ul>
+<li>Improved forecasts by <strong>20%</strong> over the best vendor’s model</li>
+<li>Combined <strong>6 data sources</strong> across 30 customer locations &amp; 4 lead times</li>
+<li>Automated forecast pipelines in Google Cloud with Xarray &amp; pandas</li>
+</ul>
+<p><a href="./research/weather-meta-model/index.html" class="xp-link">Related project: Meta-Model Weather Forecasting →</a></p>
+</section>
+</div>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<div class="xp-item">
+<div class="xp-logo xp-icon" aria-hidden="true">
+<i class="bi bi-mortarboard-fill"></i>
+</div>
+<section id="b.a.-data-science-emphasis-in-earth-science" class="level3 xp-body">
+<h3 class="anchored" data-anchor-id="b.a.-data-science-emphasis-in-earth-science">B.A. Data Science, emphasis in Earth Science</h3>
+<p><strong>University of California, Berkeley</strong><br>
+<span class="xp-meta">2021</span></p>
+<p>Study abroad in Statistics &amp; Mathematics at Lund University, Sweden.</p>
+</section>
+</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QXJjdGlj'); return false;">Arctic</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('R2Vvc3BhdGlhbA=='); return false;">Geospatial</div>
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyME1hbmFnZW1lbnQ='); return false;">Data Management</div>
-
-</div>
-<div class="listing-description">
-<a href="./experience/nceas/index.html" class="no-external-icon">
-<p>Arctic data curation &amp; publishing, permafrost geospatial visualization, HPC workflows, and teaching for the NSF Arctic Data Center and Permafrost Discovery Gateway.</p>
-</a>
-</div>
-</div>
-<div class="metadata">
-
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="QXJjdGljJTJDRmllbGQlMjBXb3Jr" data-listing-file-modified-sort="1794441942774" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
-<div class="thumbnail"><a href="./experience/utqiagvik-fieldwork/index.html" class="no-external-icon">
-
-<img loading="lazy" src="./experience/utqiagvik-fieldwork/utqiagvik.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./experience/utqiagvik-fieldwork/index.html" class="no-external-icon">Field Work: Utqiagvik, Alaska</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./experience/utqiagvik-fieldwork/index.html" class="no-external-icon">Field Technician &amp; Community Engagement · Sep 2024 (1 week)</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXJjdGlj'); return false;">Arctic</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmllbGQlMjBXb3Jr'); return false;">Field Work</div>
-
-</div>
-<div class="listing-description">
-<a href="./experience/utqiagvik-fieldwork/index.html" class="no-external-icon">
-<p>Permafrost coring, rock sampling, and presentations to community leaders on Alaska’s Arctic Coastal Plain.</p>
-</a>
-</div>
-</div>
-<div class="metadata">
-
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TkxQJTJDRGVlcCUyMExlYXJuaW5n" data-listing-file-modified-sort="1794441942773" data-listing-reading-time-sort="1" data-listing-word-count-sort="136">
-<div class="thumbnail"><a href="./experience/nasa-ames/index.html" class="no-external-icon">
-
-<img loading="lazy" src="./experience/nasa-ames/nasa-ames-logo.jpeg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./experience/nasa-ames/index.html" class="no-external-icon">NASA Ames Research Center</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./experience/nasa-ames/index.html" class="no-external-icon">Research Data Scientist (via KBR Inc.) · Aug 2021 – Mar 2023 · Mountain View, CA</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGVlcCUyMExlYXJuaW5n'); return false;">Deep Learning</div>
-
-</div>
-<div class="listing-description">
-<a href="./experience/nasa-ames/index.html" class="no-external-icon">
-<p>Semantic search and question answering over mission documents using fine-tuned BERT transformer models.</p>
-</a>
-</div>
-</div>
-<div class="metadata">
-
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="SHlkcm9sb2d5JTJDRGVlcCUyMExlYXJuaW5n" data-listing-file-modified-sort="1794441942772" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
-<div class="thumbnail"><a href="./experience/esdl/index.html" class="no-external-icon">
-
-<img loading="lazy" src="./experience/esdl/berkeley-geography-logo.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./experience/esdl/index.html" class="no-external-icon">Environmental Systems Dynamics Lab, UC Berkeley</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./experience/esdl/index.html" class="no-external-icon">Research Assistant · Aug 2020 – Aug 2021 · Berkeley, CA</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SHlkcm9sb2d5'); return false;">Hydrology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGVlcCUyMExlYXJuaW5n'); return false;">Deep Learning</div>
-
-</div>
-<div class="listing-description">
-<a href="./experience/esdl/index.html" class="no-external-icon">
-<p>Physics-informed LSTM neural networks for forecasting watershed discharge.</p>
-</a>
-</div>
-</div>
-<div class="metadata">
-
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="Q2xpbWF0ZSUyQ0ZvcmVjYXN0aW5n" data-listing-file-modified-sort="1794441942771" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
-<div class="thumbnail"><a href="./experience/climate-ai/index.html" class="no-external-icon">
-
-<img loading="lazy" src="./experience/climate-ai/climateai-logo.jpeg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./experience/climate-ai/index.html" class="no-external-icon">ClimateAi</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./experience/climate-ai/index.html" class="no-external-icon">Data Science Intern · Jun 2020 – Aug 2020 · San Francisco, CA</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q2xpbWF0ZQ=='); return false;">Climate</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9yZWNhc3Rpbmc='); return false;">Forecasting</div>
-
-</div>
-<div class="listing-description">
-<a href="./experience/climate-ai/index.html" class="no-external-icon">
-<p>Multi-model ensemble for short-term temperature and precipitation forecasts.</p>
-</a>
-</div>
-</div>
-<div class="metadata">
-
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
