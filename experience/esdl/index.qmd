@@ -1,0 +1,18 @@
+---
+title: "Environmental Systems Dynamics Lab, UC Berkeley"
+subtitle: "Research Assistant · Aug 2020 – Aug 2021 · Berkeley, CA"
+description: "Physics-informed LSTM neural networks for forecasting watershed discharge."
+categories: [Hydrology, Deep Learning]
+image: berkeley-geography-logo.jpg
+---
+
+## Background
+
+The Environmental Systems Dynamics Laboratory, led by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management.
+
+## What I Did
+
+-   Designed LSTM neural networks in PyTorch to forecast watershed discharge, trained on temperature & precipitation time series ([more on this project](../../research/physics-informed-lstm/index.qmd))
+-   Improved model accuracy by 5% by adding physics-based constraints to the model structure; presented a poster at the AGU Fall Meeting 2021
+-   Implemented cross-validation scripts for time series models, testing model robustness across 30 datasets in varying climates
+-   Developed Python visualization scripts to compare and analyze 2+ million graphs, supporting the hypothesis that the internal structure of deep neural networks can reconstruct physical processes

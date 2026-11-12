@@ -1,0 +1,15 @@
+---
+title: "Experience"
+listing:
+  # listed in display order (current role first)
+  contents:
+    - experience/nceas
+    - experience/utqiagvik-fieldwork
+    - experience/nasa-ames
+    - experience/esdl
+    - experience/climate-ai
+  type: default
+  fields: [image, title, subtitle, description, categories]
+  sort: false
+  categories: true
+---

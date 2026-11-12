@@ -1,0 +1,26 @@
+---
+title: "Physics-Informed LSTMs for Streamflow"
+description: "Adding physical constraints to LSTM neural networks to forecast watershed discharge, and checking whether their internal states track real hydrologic processes."
+categories: [Hydrology, Deep Learning]
+image: logo.jpg
+---
+
+## Overview
+
+Deep learning models such as Long Short-Term Memory (LSTM) networks can forecast streamflow well, but they are often treated as black boxes. In Laurel Larsen's Environmental Systems Dynamics Lab at UC Berkeley, we explored whether building physics-based constraints into an LSTM improves its forecasts, and whether the model's internal structure reconstructs physical processes in the watershed.
+
+## My Role
+
+-   Designed LSTM neural networks in PyTorch to forecast watershed discharge from temperature & precipitation time series
+-   Added physics-based constraints to the model structure, improving accuracy by **5%**
+-   Implemented time series cross-validation to test robustness across **30 datasets** in varying climates
+-   Built Python visualization scripts to compare and analyze 2+ million graphs, supporting the hypothesis that a network's internal structure can reconstruct physical processes
+
+## Tools
+
+Python · PyTorch · time series cross-validation
+
+## Outputs
+
+-   Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., Larsen, L. *Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA.* AGU Fall Meeting, 2021. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.H35S1248Z/abstract)
+-   Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., Larsen, L. *A physics-informed machine learning model for streamflow prediction.* AGU Fall Meeting, 2022. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H31E..01Z/abstract)

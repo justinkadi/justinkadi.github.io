@@ -1,11 +1,35 @@
 ---
-
+title: "Teaching"
+description: "Courses, workshops, and tutoring I have helped teach"
 ---
 
-## Fundamentals in Data Management for Qualitative and Quantitative Arctic Research
+## NSF Arctic Data Center Courses
 
-## Reproducible Approaches to Arctic Research Using R
+I teach annual courses for Arctic researchers on data management, reproducible workflows, and scalable computing. Each course has an open, citable course book.
 
-## Scalable and Computationally Reproducible Approaches to Arctic Research
+### Scalable and Computationally Reproducible Approaches to Arctic Research
 
-## Undergraduate TA & Tutoring
+**Role:** Instructor · Mar 2024, Mar 2025
+
+Course books: [2025](https://doi.org/10.18739/A2NK3670P) · [2024](https://doi.org/10.18739/A2C53F33M)
+
+### Reproducible Approaches to Arctic Research Using R
+
+**Role:** Instructor · Feb 2024
+
+Course book: [2024](https://doi.org/10.18739/A2QF8JM4T)
+
+### Fundamentals in Data Management for Qualitative and Quantitative Arctic Research
+
+**Role:** Instructor · Jan 2024, Jan 2025
+
+Course books: [2025](https://doi.org/10.18739/A2TM7232M) · [2024](https://doi.org/10.18739/A2KP7TT0P)
+
+## UC Berkeley
+
+| Role                     | Course                                             | Term              |
+|--------------------------|----------------------------------------------------|-------------------|
+| Department Grader & Tutor | Stat 102: Data, Inference, and Decisions           | Spring 2021       |
+| Department Grader & Tutor | Stat 100: Principles & Techniques of Data Science  | Summer, Fall 2020 |
+| Teaching Assistant       | EPS 88: Python Introduction to Earth & Planetary Science | Fall 2019   |
+| Teaching Assistant       | Physics 88: Computational Techniques in Physics    | Spring 2019       |

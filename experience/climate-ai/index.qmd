@@ -1,0 +1,18 @@
+---
+title: "ClimateAi"
+subtitle: "Data Science Intern · Jun 2020 – Aug 2020 · San Francisco, CA"
+description: "Multi-model ensemble for short-term temperature and precipitation forecasts."
+categories: [Climate, Forecasting]
+image: climateai-logo.jpeg
+---
+
+## Background
+
+ClimateAi applies AI to climate risk modeling, providing short- and long-term insights into weather and climate impacts to help businesses identify the actions needed today to adapt to the climate disruptions of tomorrow.
+
+## What I Did
+
+-   Improved short-term forecasts of mean temperature & precipitation by 20% over the best vendor's model ([more on this project](../../research/weather-meta-model/index.qmd))
+-   Designed a multi-model ensemble algorithm combining 6 data sources, with different weights across 30 customer locations & 4 lead times
+-   Built automated back-end pipelines in Google Cloud for geospatial data extraction, preprocessing, and forecast skill & uncertainty analysis, updating model weights weekly using Xarray & pandas
+-   Presented Tableau map visualizations comparing our improved model's performance with competitors'

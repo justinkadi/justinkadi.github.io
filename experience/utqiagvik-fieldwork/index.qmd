@@ -1,0 +1,13 @@
+---
+title: "Field Work: Utqiagvik, Alaska"
+subtitle: "Field Technician & Community Engagement · Sep 2024 (1 week)"
+description: "Permafrost coring, rock sampling, and presentations to community leaders on Alaska's Arctic Coastal Plain."
+categories: [Arctic, Field Work]
+image: utqiagvik.jpg
+---
+
+## What I Did
+
+-   Permafrost coring and rock sampling with Ben Jones' group
+-   Presented *An Introduction to the Arctic Data Center* at the Utqiagvik Community Meeting
+-   Contributed to the dataset *Observations of Exotic Tundra Boulders on the Arctic Coastal Plain of Northern Alaska (1826 to 2025)* ([doi:10.18739/A2RN30935](https://doi.org/10.18739/A2RN30935))

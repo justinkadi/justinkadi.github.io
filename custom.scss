@@ -1,0 +1,232 @@
+/*-- scss:defaults --*/
+
+// Fonts -------------------------------------------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap');
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !default;
+$headings-font-family: "Space Grotesk", "Source Sans 3", sans-serif !default;
+$headings-font-weight: 600 !default;
+$font-size-root: 17px !default;
+
+// Arctic / earth palette (light) ------------------------------------------
+// All values use !default so custom-dark.scss (layered after this file)
+// can override them for the dark theme.
+$navy:      #1d3b53 !default;  // deep ocean navy
+$glacier:   #2b7a9b !default;  // glacier blue
+$tundra:    #5b8c5a !default;  // tundra green
+$sand:      #f3eee4 !default;  // sand panels
+$ink:       #1f2a33 !default;  // body text
+$paper:     #fbfaf7 !default;  // page background
+$muted:     #5d6b76 !default;  // secondary text
+$rule:      #e2ddd2 !default;  // borders / dividers
+
+$body-bg:    $paper !default;
+$body-color: $ink !default;
+$primary:    $navy !default;
+$secondary:  $muted !default;
+$success:    $tundra !default;
+$info:       $glacier !default;
+$link-color: $glacier !default;
+$border-color: $rule !default;
+
+$headings-color: $navy !default;
+$panel-bg: $sand !default;
+
+// Navbar & footer
+$navbar-bg: $navy !default;
+$navbar-fg: #f3f6f8 !default;
+$navbar-hl: #9fd3e8 !default;
+$footer-bg: $sand !default;
+$footer-fg: $muted !default;
+
+/*-- scss:rules --*/
+
+// Typography --------------------------------------------------------------
+h1, h2, h3, h4, .title {
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid $border-color;
+}
+
+a {
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  &:hover { text-decoration-thickness: 2px; }
+}
+
+// Navbar ------------------------------------------------------------------
+.navbar {
+  font-family: $headings-font-family;
+  font-weight: 500;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand .navbar-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+// About page (home) --------------------------------------------------------
+.quarto-about-trestles {
+  .about-entity .about-image {
+    border: 4px solid $panel-bg;
+    box-shadow: 0 6px 24px rgba(29, 59, 83, 0.18);
+  }
+
+  .about-entity .about-link {
+    border-radius: 999px;
+    border-color: $link-color;
+    color: $link-color;
+    &:hover {
+      background-color: $link-color;
+      color: $body-bg;
+    }
+  }
+
+  .about-contents h2 {
+    border-bottom: none;
+    margin-top: 0;
+  }
+
+  // On narrow screens the template stacks the layout; keep the link
+  // buttons inside the viewport instead of overflowing to the right.
+  @media (max-width: 991.98px) {
+    .about-entity {
+      padding-right: 0;
+      width: 100%;
+      max-width: 100%;
+    }
+    .about-entity .about-links {
+      box-sizing: border-box;
+      max-width: 22rem;
+      margin-inline: auto;
+    }
+  }
+}
+
+// Home page banner ----------------------------------------------------------
+// Only the home page uses the about template, so :has() scopes this to it.
+// The photo spans the full width above the profile, fading into the page.
+#quarto-content:has(.quarto-about-trestles) {
+  position: relative;
+  padding-top: clamp(140px, 22vw, 300px);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: clamp(160px, 24vw, 330px);
+    background:
+      linear-gradient(to bottom, rgba($body-bg, 0) 55%, $body-bg 100%),
+      url("/media/utqiagvik-banner.jpg") center 48% / cover no-repeat;
+    z-index: 0;
+  }
+
+  > * { position: relative; z-index: 1; }
+}
+
+// "Last updated" note at the bottom of the home page
+.last-updated {
+  display: block;
+  margin-top: 2.5rem;
+  font-size: 0.85rem;
+  color: $muted;
+}
+
+// Featured research on the home page: a bit tighter than the Research page
+#featured-research .quarto-grid-item .card-text {
+  font-size: 0.95rem;
+}
+
+// Listings (work + blog) -----------------------------------------------------
+.quarto-listing-default .quarto-post,
+.quarto-grid-item {
+  background-color: $panel-bg;
+  border: 1px solid $border-color;
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  }
+}
+
+.quarto-listing-default .quarto-post {
+  border-bottom: 1px solid $border-color; // override default divider
+}
+
+// Thumbnails ------------------------------------------------------------------
+// Every thumbnail sits in a fixed frame: square on Experience, 16:9 on Research.
+// Photos fill (and crop to) the frame. Any image with "logo" in its filename
+// is shown whole on a white tile instead, so logos are never cropped.
+.quarto-listing-default .quarto-post .thumbnail {
+  flex: 0 0 9rem;
+  width: 9rem;
+  margin-right: 1.25rem;
+
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 0.5rem;
+  }
+}
+
+.quarto-grid-item .card-img {
+  width: 100%;
+  height: auto !important;   // override Quarto's inline height
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.quarto-post .thumbnail img[src*="logo"],
+.quarto-grid-item .card-img[src*="logo"] {
+  object-fit: contain;
+  background-color: #fff;
+  padding: 0.9rem;
+  border: 1px solid $border-color;
+}
+
+@media (max-width: 576px) {
+  .quarto-listing-default .quarto-post .thumbnail {
+    flex-basis: 6rem;
+    width: 6rem;
+  }
+}
+
+// Category pills
+.listing-category,
+.quarto-category {
+  border-radius: 999px;
+  border-color: $success;
+  color: $success;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.quarto-listing-category .category {
+  border-radius: 0.4rem;
+  &.active { background-color: $panel-bg; }
+}
+
+// Callouts & code -----------------------------------------------------------
+div.callout {
+  border-radius: 0.6rem;
+}
+
+blockquote {
+  border-left: 4px solid $success;
+  background-color: $panel-bg;
+  padding: 0.75rem 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}

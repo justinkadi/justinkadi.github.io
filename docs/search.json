@@ -1,128 +1,345 @@
 [
   {
-    "objectID": "work/esdl/index.html",
-    "href": "work/esdl/index.html",
-    "title": "Environmental Systems Dynamics Lab",
-    "section": "",
-    "text": "The Environmental Systems Dynamics Laboratory, managed by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab’s approach to problems integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management."
-  },
-  {
-    "objectID": "work/esdl/index.html#what-i-did",
-    "href": "work/esdl/index.html#what-i-did",
-    "title": "Environmental Systems Dynamics Lab",
-    "section": "What I Did",
-    "text": "What I Did\nIn my role as a Research Assistant, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future."
-  },
-  {
-    "objectID": "work/climate-ai/index.html",
-    "href": "work/climate-ai/index.html",
-    "title": "ClimateAi",
-    "section": "",
-    "text": "By applying AI to climate risk modeling, we provide short and long-term insights into weather and climate impact, helping businesses identify the actions needed today to adapt to the climate change disruptions of tomorrow."
-  },
-  {
-    "objectID": "work/climate-ai/index.html#what-i-did",
-    "href": "work/climate-ai/index.html#what-i-did",
-    "title": "ClimateAi",
-    "section": "What I Did",
-    "text": "What I Did\nIn my role as a Data Science Intern, I worked on creating more accurate short-term weather forecasts by using a multi-model approach. I tested different weighing schemes for the models based on different accuracy metrics across different regions around the world."
-  },
-  {
-    "objectID": "work/permafrost-discovery-gateway/index.html",
-    "href": "work/permafrost-discovery-gateway/index.html",
-    "title": "Permafrost Discovery Gateway",
-    "section": "",
-    "text": "Permafrost Discovery Gateway is an online platform in development for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge-generation about the changing Arctic landscape. Its tools provide access to very high resolution satellite data products across the Arctic for researchers, educators, and the public at large to explore and discover."
-  },
-  {
-    "objectID": "work/permafrost-discovery-gateway/index.html#what-i-do",
-    "href": "work/permafrost-discovery-gateway/index.html#what-i-do",
-    "title": "Permafrost Discovery Gateway",
-    "section": "What I Do",
-    "text": "What I Do\nIn my role as a Data Coordinator, I work with researchers to process their datasets through our visualization pipeline. I work on staging, tiling, and rasterizing their data so that it can be easily viewed through our data portal."
-  },
-  {
-    "objectID": "work/nasa-ames/index.html",
-    "href": "work/nasa-ames/index.html",
-    "title": "NASA Ames Research Center",
-    "section": "",
-    "text": "I worked with Nija Shi and Guillaume Brat in the Intelligent Systems Division on a project management tool to organize digital mission requirements, documents, and artifacts."
-  },
-  {
-    "objectID": "work/nasa-ames/index.html#what-i-do",
-    "href": "work/nasa-ames/index.html#what-i-do",
-    "title": "NASA Ames Research Center",
-    "section": "What I Do",
-    "text": "What I Do\nIn my role as a Research Data Scientist, I fine-tuned BERT transformer models to more accurately categorize documents."
-  },
-  {
-    "objectID": "work/arctic-data-center/index.html",
-    "href": "work/arctic-data-center/index.html",
-    "title": "Arctic Data Center",
-    "section": "",
-    "text": "The Arctic Data Center (ADC) is the primary data and software repository for the National Science Foundation (NSF)’s Office of Polar Programs (OPP). Our mission is to help the research community reproducibly preserve and discoover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model."
-  },
-  {
-    "objectID": "work/arctic-data-center/index.html#what-i-did",
-    "href": "work/arctic-data-center/index.html#what-i-did",
-    "title": "Arctic Data Center",
-    "section": "What I Did",
-    "text": "What I Did\nIn my role as a Data Coordinator, I work with researchers to prepare their datasets to be published so they can be easily re-used by others in the future."
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "Utqiagvik Field Work, September 2024\n\n\n\nNCEAS\n\n\nArctic\n\n\n\nReflections on my trip to Utqiagvik, Alaska with Ben Jones’ group\n\n\n\nJustin Kadi\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching.html#fundamentals-in-data-management-for-qualitative-and-quantitative-arctic-research",
-    "href": "teaching.html#fundamentals-in-data-management-for-qualitative-and-quantitative-arctic-research",
-    "title": "Justin Kadi",
-    "section": "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research",
-    "text": "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research"
-  },
-  {
-    "objectID": "teaching.html#reproducible-approaches-to-arctic-research-using-r",
-    "href": "teaching.html#reproducible-approaches-to-arctic-research-using-r",
-    "title": "Justin Kadi",
-    "section": "Reproducible Approaches to Arctic Research Using R",
-    "text": "Reproducible Approaches to Arctic Research Using R"
-  },
-  {
-    "objectID": "teaching.html#scalable-and-computationally-reproducible-approaches-to-arctic-research",
-    "href": "teaching.html#scalable-and-computationally-reproducible-approaches-to-arctic-research",
-    "title": "Justin Kadi",
-    "section": "Scalable and Computationally Reproducible Approaches to Arctic Research",
-    "text": "Scalable and Computationally Reproducible Approaches to Arctic Research"
-  },
-  {
-    "objectID": "teaching.html#undergraduate-ta-tutoring",
-    "href": "teaching.html#undergraduate-ta-tutoring",
-    "title": "Justin Kadi",
-    "section": "Undergraduate TA & Tutoring",
-    "text": "Undergraduate TA & Tutoring"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Work & Past Projects",
-    "section": "",
-    "text": "Arctic Data Center\n\n\n\n\n\n\n\nNCEAS\n\n\nArctic\n\n\n\n\ndata curation, metadata, publishing, large data\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPermafrost Discovery Gateway\n\n\n\n\n\n\n\nNCEAS\n\n\nArctic\n\n\n\n\ngeospatial data, visualization, large data\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nNASA Ames Research Center\n\n\n\n\n\n\n\nNLP\n\n\nDeep Learning\n\n\n\n\nLLMs, transformers, NLP, deep learning\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nEnvironmental Systems Dynamics Lab\n\n\n\n\n\n\n\nHydrology\n\n\nDeep Learning\n\n\n\n\nLSTMs, deep learning\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nClimateAi\n\n\n\n\n\n\n\nClimate\n\n\nStart Up\n\n\n\n\nclimate data, time series\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/2025-05-utqiagvik-trip/index.html",
-    "href": "blog/2025-05-utqiagvik-trip/index.html",
-    "title": "Utqiagvik Field Work, September 2024",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{kadi2025,\n  author = {Justin Kadi},\n  title = {Utqiagvik {Field} {Work,} {September} 2024},\n  date = {2025-05-25},\n  url = {https://justinkadi.github.io/blog/2025-05-utqiagvik-trip/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nJustin Kadi. 2025. “Utqiagvik Field Work, September 2024.”\nMay 25, 2025. https://justinkadi.github.io/blog/2025-05-utqiagvik-trip/."
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Justin Kadi",
     "section": "",
-    "text": "I’m Justin Kadi, and I’m an environmental data scientist currently working at the National Center for Ecological Analysis and Synthesis (NCEAS) as a projects data coordinator. Specifically, I work with NSF’s Arctic Data Center and on the Permafrost Discovery Gateway project.\nI’m broadly interested in the intersection of data science with environmental and climate science. Before coming to NCEAS, I researched the use of deep learning models in hydrological forecasting at UC Berkeley, worked on short-term weather forecasts at ClimateAi, and worked on a language modeling research project at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet."
+    "text": "I’m Justin Kadi, an environmental data scientist working at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara as a Projects Data Coordinator. I work with NSF’s Arctic Data Center (ADC), where I curate and publish 340+ TB of Arctic research data, and on the Permafrost Discovery Gateway (PDG), where I process and visualize pan-Arctic permafrost datasets.\nI’m broadly interested in the intersection of data science with environmental and climate science. Currently, I’m learning more about geospatial data processing and its use cases in environmental projects.\nBefore coming to NCEAS, I researched physics-informed deep learning models for streamflow forecasting at UC Berkeley, built short-term weather forecast ensembles at ClimateAi, and developed a semantic search system for mission documents at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.\n\n\n\n\nArctic & permafrost science\nGeospatial data processing & visualization\nMachine learning for earth systems\nReproducible & scalable research workflows\n\n\n\n\nB.A. Data Science, emphasis in Earth Science\nUniversity of California, Berkeley, 2021\nStudy Abroad, Statistics & Mathematics\nLund University, Sweden\n\n\n\n\nProgramming: Python, R, bash, SQL\nSoftware: GIS, Cesium, Git\nLanguages: Indonesian (fluent), Japanese (conversational)\n\n\n\n\n\nNCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)\nUC Berkeley Data Science Career Mentor (2025–2026)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Justin Kadi",
+    "section": "",
+    "text": "I’m Justin Kadi, an environmental data scientist working at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara as a Projects Data Coordinator. I work with NSF’s Arctic Data Center (ADC), where I curate and publish 340+ TB of Arctic research data, and on the Permafrost Discovery Gateway (PDG), where I process and visualize pan-Arctic permafrost datasets.\nI’m broadly interested in the intersection of data science with environmental and climate science. Currently, I’m learning more about geospatial data processing and its use cases in environmental projects.\nBefore coming to NCEAS, I researched physics-informed deep learning models for streamflow forecasting at UC Berkeley, built short-term weather forecast ensembles at ClimateAi, and developed a semantic search system for mission documents at NASA Ames. All these experiences contributed to my excitement for the potential impacts of data and computational methods in our understanding of our planet.\n\n\n\n\nArctic & permafrost science\nGeospatial data processing & visualization\nMachine learning for earth systems\nReproducible & scalable research workflows\n\n\n\n\nB.A. Data Science, emphasis in Earth Science\nUniversity of California, Berkeley, 2021\nStudy Abroad, Statistics & Mathematics\nLund University, Sweden\n\n\n\n\nProgramming: Python, R, bash, SQL\nSoftware: GIS, Cesium, Git\nLanguages: Indonesian (fluent), Japanese (conversational)\n\n\n\n\n\nNCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)\nUC Berkeley Data Science Career Mentor (2025–2026)"
+  },
+  {
+    "objectID": "index.html#featured-research",
+    "href": "index.html#featured-research",
+    "title": "Justin Kadi",
+    "section": "Featured Research",
+    "text": "Featured Research\n\n\n\n\n\n\n\n\n\n\nPan-Arctic Permafrost Visualization\n\n\nTurning machine-learning-derived permafrost maps into interactive 2D & 3D web tiles for the Permafrost Discovery Gateway.\n\n\n\n\n\n\n\n\n\n\n\n\nSemantic Search for NASA Mission Documents\n\n\nFine-tuned BERT models and a question answering tool that cut months from NASA’s document auditing process.\n\n\n\n\n\nNo matching items\n\nSee all research →\nLast updated: November 11, 2026"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach annual courses for Arctic researchers on data management, reproducible workflows, and scalable computing. Each course has an open, citable course book.\n\n\nRole: Instructor · Mar 2024, Mar 2025\nCourse books: 2025 · 2024\n\n\n\nRole: Instructor · Feb 2024\nCourse book: 2024\n\n\n\nRole: Instructor · Jan 2024, Jan 2025\nCourse books: 2025 · 2024"
+  },
+  {
+    "objectID": "teaching.html#nsf-arctic-data-center-courses",
+    "href": "teaching.html#nsf-arctic-data-center-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach annual courses for Arctic researchers on data management, reproducible workflows, and scalable computing. Each course has an open, citable course book.\n\n\nRole: Instructor · Mar 2024, Mar 2025\nCourse books: 2025 · 2024\n\n\n\nRole: Instructor · Feb 2024\nCourse book: 2024\n\n\n\nRole: Instructor · Jan 2024, Jan 2025\nCourse books: 2025 · 2024"
+  },
+  {
+    "objectID": "teaching.html#uc-berkeley",
+    "href": "teaching.html#uc-berkeley",
+    "title": "Teaching",
+    "section": "UC Berkeley",
+    "text": "UC Berkeley\n\n\n\n\n\n\n\n\nRole\nCourse\nTerm\n\n\n\n\nDepartment Grader & Tutor\nStat 102: Data, Inference, and Decisions\nSpring 2021\n\n\nDepartment Grader & Tutor\nStat 100: Principles & Techniques of Data Science\nSummer, Fall 2020\n\n\nTeaching Assistant\nEPS 88: Python Introduction to Earth & Planetary Science\nFall 2019\n\n\nTeaching Assistant\nPhysics 88: Computational Techniques in Physics\nSpring 2019"
+  },
+  {
+    "objectID": "research/permafrost-visualization/index.html",
+    "href": "research/permafrost-visualization/index.html",
+    "title": "Pan-Arctic Permafrost Visualization",
+    "section": "",
+    "text": "The Permafrost Discovery Gateway (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge generation about the changing Arctic landscape. It gives researchers, educators, and the public access to very high resolution, satellite-derived data products across the Arctic."
+  },
+  {
+    "objectID": "research/permafrost-visualization/index.html#overview",
+    "href": "research/permafrost-visualization/index.html#overview",
+    "title": "Pan-Arctic Permafrost Visualization",
+    "section": "",
+    "text": "The Permafrost Discovery Gateway (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products to enable knowledge generation about the changing Arctic landscape. It gives researchers, educators, and the public access to very high resolution, satellite-derived data products across the Arctic."
+  },
+  {
+    "objectID": "research/permafrost-visualization/index.html#my-role",
+    "href": "research/permafrost-visualization/index.html#my-role",
+    "title": "Pan-Arctic Permafrost Visualization",
+    "section": "My Role",
+    "text": "My Role\nI work with researchers to process their datasets through the PDG visualization pipeline: staging, tiling, and rasterizing large vector and raster datasets so they can be explored in the data portal. Many of these datasets are pan-Arctic products derived from machine learning models applied to satellite imagery.\n\nRun automated, parallelized tiling workflows on UCSB’s high-performance computing clusters\nContribute to open-source tooling for Cesium 3D tiling"
+  },
+  {
+    "objectID": "research/permafrost-visualization/index.html#tools",
+    "href": "research/permafrost-visualization/index.html#tools",
+    "title": "Pan-Arctic Permafrost Visualization",
+    "section": "Tools",
+    "text": "Tools\nPython · R · GIS · Cesium · HPC / parallel computing"
+  },
+  {
+    "objectID": "research/permafrost-visualization/index.html#outputs",
+    "href": "research/permafrost-visualization/index.html#outputs",
+    "title": "Pan-Arctic Permafrost Visualization",
+    "section": "Outputs",
+    "text": "Outputs\n\nSoftware: Thiessen-Bock, R., Cohen, J., Jones, M., Walker, L., Nenuji, R., Kosobokova, A., Regetz, J., Kadi, J. (2026). Viz-3dtiles: Cesium 3D Tiling for Geospatial Visualization (v1.1.0). Arctic Data Center. doi:10.18739/A2W669B4Q\nPortal: permafrost.arcticdata.io"
+  },
+  {
+    "objectID": "research/nasa-semantic-search/index.html",
+    "href": "research/nasa-semantic-search/index.html",
+    "title": "Semantic Search for NASA Mission Documents",
+    "section": "",
+    "text": "NASA missions produce thousands of requirements documents, reports, and artifacts that reviewers must search through for evidence. In the Intelligent Systems Division at NASA Ames, working with Nija Shi and Guillaume Brat, I developed a semantic search and question answering system, built into a project management dashboard, to speed up this auditing process.\n\n\n\nHow the system works: project documents are processed through an ETL pipeline and fine-tuned BERT models into an Elasticsearch index, which powers a search and question answering dashboard for mission reviewers."
+  },
+  {
+    "objectID": "research/nasa-semantic-search/index.html#overview",
+    "href": "research/nasa-semantic-search/index.html#overview",
+    "title": "Semantic Search for NASA Mission Documents",
+    "section": "",
+    "text": "NASA missions produce thousands of requirements documents, reports, and artifacts that reviewers must search through for evidence. In the Intelligent Systems Division at NASA Ames, working with Nija Shi and Guillaume Brat, I developed a semantic search and question answering system, built into a project management dashboard, to speed up this auditing process.\n\n\n\nHow the system works: project documents are processed through an ETL pipeline and fine-tuned BERT models into an Elasticsearch index, which powers a search and question answering dashboard for mission reviewers."
+  },
+  {
+    "objectID": "research/nasa-semantic-search/index.html#my-role",
+    "href": "research/nasa-semantic-search/index.html#my-role",
+    "title": "Semantic Search for NASA Mission Documents",
+    "section": "My Role",
+    "text": "My Role\n\nBuilt a semantic search system, used on 3 missions, that analyzes 2,000+ project documents and retrieves critical evidence for reviews\nFine-tuned BERT transformer language models to better represent NASA-specific phrases & acronyms, improving correct retrieval by 30+%\nAdded a question answering tool to the dashboard, expediting document auditing by 3+ months\nDesigned ETL and search pipelines with Elasticsearch, connected to a NodeJS/React front end through the Haystack REST API"
+  },
+  {
+    "objectID": "research/nasa-semantic-search/index.html#tools",
+    "href": "research/nasa-semantic-search/index.html#tools",
+    "title": "Semantic Search for NASA Mission Documents",
+    "section": "Tools",
+    "text": "Tools\nPython · BERT / Transformers · Haystack · Elasticsearch · NodeJS · React"
+  },
+  {
+    "objectID": "research/nasa-semantic-search/index.html#related-work",
+    "href": "research/nasa-semantic-search/index.html#related-work",
+    "title": "Semantic Search for NASA Mission Documents",
+    "section": "Related Work",
+    "text": "Related Work\n\nKadi, J. Enhanced Requirement Traceability Using Recurrent Neural Networks. NASA Research Poster Symposium, 2019. Poster."
+  },
+  {
+    "objectID": "experience/esdl/index.html",
+    "href": "experience/esdl/index.html",
+    "title": "Environmental Systems Dynamics Lab, UC Berkeley",
+    "section": "",
+    "text": "The Environmental Systems Dynamics Laboratory, led by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management."
+  },
+  {
+    "objectID": "experience/esdl/index.html#background",
+    "href": "experience/esdl/index.html#background",
+    "title": "Environmental Systems Dynamics Lab, UC Berkeley",
+    "section": "",
+    "text": "The Environmental Systems Dynamics Laboratory, led by Laurel Larsen, takes a complex-systems approach to environmental problems, seeking to understand the set of interactions and feedbacks that produce emergent phenomena. The lab integrates field work and numerical modeling to identify the most critical drivers of landscape-scale change and generate predictions about how landscapes will respond to climate change or changes in management."
+  },
+  {
+    "objectID": "experience/esdl/index.html#what-i-did",
+    "href": "experience/esdl/index.html#what-i-did",
+    "title": "Environmental Systems Dynamics Lab, UC Berkeley",
+    "section": "What I Did",
+    "text": "What I Did\n\nDesigned LSTM neural networks in PyTorch to forecast watershed discharge, trained on temperature & precipitation time series (more on this project)\nImproved model accuracy by 5% by adding physics-based constraints to the model structure; presented a poster at the AGU Fall Meeting 2021\nImplemented cross-validation scripts for time series models, testing model robustness across 30 datasets in varying climates\nDeveloped Python visualization scripts to compare and analyze 2+ million graphs, supporting the hypothesis that the internal structure of deep neural networks can reconstruct physical processes"
+  },
+  {
+    "objectID": "experience/climate-ai/index.html",
+    "href": "experience/climate-ai/index.html",
+    "title": "ClimateAi",
+    "section": "",
+    "text": "ClimateAi applies AI to climate risk modeling, providing short- and long-term insights into weather and climate impacts to help businesses identify the actions needed today to adapt to the climate disruptions of tomorrow."
+  },
+  {
+    "objectID": "experience/climate-ai/index.html#background",
+    "href": "experience/climate-ai/index.html#background",
+    "title": "ClimateAi",
+    "section": "",
+    "text": "ClimateAi applies AI to climate risk modeling, providing short- and long-term insights into weather and climate impacts to help businesses identify the actions needed today to adapt to the climate disruptions of tomorrow."
+  },
+  {
+    "objectID": "experience/climate-ai/index.html#what-i-did",
+    "href": "experience/climate-ai/index.html#what-i-did",
+    "title": "ClimateAi",
+    "section": "What I Did",
+    "text": "What I Did\n\nImproved short-term forecasts of mean temperature & precipitation by 20% over the best vendor’s model (more on this project)\nDesigned a multi-model ensemble algorithm combining 6 data sources, with different weights across 30 customer locations & 4 lead times\nBuilt automated back-end pipelines in Google Cloud for geospatial data extraction, preprocessing, and forecast skill & uncertainty analysis, updating model weights weekly using Xarray & pandas\nPresented Tableau map visualizations comparing our improved model’s performance with competitors’"
+  },
+  {
+    "objectID": "experience/nceas/index.html",
+    "href": "experience/nceas/index.html",
+    "title": "National Center for Ecological Analysis & Synthesis",
+    "section": "",
+    "text": "The Arctic Data Center (ADC) is the primary data and software repository for the National Science Foundation (NSF)’s Office of Polar Programs (OPP). Its mission is to help the research community reproducibly preserve and discover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model.\nThe Permafrost Discovery Gateway (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products, giving researchers, educators, and the public access to very high resolution satellite-derived data across the Arctic."
+  },
+  {
+    "objectID": "experience/nceas/index.html#background",
+    "href": "experience/nceas/index.html#background",
+    "title": "National Center for Ecological Analysis & Synthesis",
+    "section": "",
+    "text": "The Arctic Data Center (ADC) is the primary data and software repository for the National Science Foundation (NSF)’s Office of Polar Programs (OPP). Its mission is to help the research community reproducibly preserve and discover all products of NSF-funded science in the Arctic, including data, metadata, software, documents, and provenance that links these in a coherent knowledge model.\nThe Permafrost Discovery Gateway (PDG) is an online platform for creating, analyzing, and visualizing big geospatial permafrost products, giving researchers, educators, and the public access to very high resolution satellite-derived data across the Arctic."
+  },
+  {
+    "objectID": "experience/nceas/index.html#what-i-do",
+    "href": "experience/nceas/index.html#what-i-do",
+    "title": "National Center for Ecological Analysis & Synthesis",
+    "section": "What I Do",
+    "text": "What I Do\n\nDirect the archival, curation, and publishing of 340+ TB of research data through the Arctic Data Center in R, working with geospatial vectors & rasters, climate model output, large cloud-optimized formats, survey data, and more\nProcess and visualize pan-Arctic permafrost datasets derived from machine learning models and satellite imagery for the Permafrost Discovery Gateway (more on this project)\nDevelop open-source software tools in R & Python and deploy automated, parallelized workflows on UCSB’s high-performance computing clusters\nCollaboratively manage multi-TB databases and metadata to increase accessibility and reproducibility\nManage and mentor a team of 5+ interns on data processing tasks\nTeach 3 annual courses to researchers on reproducible workflows & scalable computing (see Teaching)"
+  },
+  {
+    "objectID": "experience/nasa-ames/index.html",
+    "href": "experience/nasa-ames/index.html",
+    "title": "NASA Ames Research Center",
+    "section": "",
+    "text": "I worked with Nija Shi and Guillaume Brat in the Intelligent Systems Division on a project management tool to organize digital mission requirements, documents, and artifacts."
+  },
+  {
+    "objectID": "experience/nasa-ames/index.html#background",
+    "href": "experience/nasa-ames/index.html#background",
+    "title": "NASA Ames Research Center",
+    "section": "",
+    "text": "I worked with Nija Shi and Guillaume Brat in the Intelligent Systems Division on a project management tool to organize digital mission requirements, documents, and artifacts."
+  },
+  {
+    "objectID": "experience/nasa-ames/index.html#what-i-did",
+    "href": "experience/nasa-ames/index.html#what-i-did",
+    "title": "NASA Ames Research Center",
+    "section": "What I Did",
+    "text": "What I Did\n\nDeveloped a semantic search system, used on 3 missions, that analyzes 2,000+ project documents and retrieves critical evidence for reviews (more on this project)\nExpedited NASA’s document auditing process by 3+ months using deep learning & NLP, automating text retrieval and adding a question answering tool to a project management dashboard\nImproved the correct search retrieval rate by 30+% by fine-tuning BERT transformer language models to better represent phrases & acronyms commonly used at NASA\nDesigned ETL and search pipelines with an Elasticsearch (NoSQL) database, connected to a front-end dashboard built with NodeJS, React, & the Haystack REST API"
+  },
+  {
+    "objectID": "experience/utqiagvik-fieldwork/index.html",
+    "href": "experience/utqiagvik-fieldwork/index.html",
+    "title": "Field Work: Utqiagvik, Alaska",
+    "section": "",
+    "text": "Permafrost coring and rock sampling with Ben Jones’ group\nPresented An Introduction to the Arctic Data Center at the Utqiagvik Community Meeting\nContributed to the dataset Observations of Exotic Tundra Boulders on the Arctic Coastal Plain of Northern Alaska (1826 to 2025) (doi:10.18739/A2RN30935)"
+  },
+  {
+    "objectID": "experience/utqiagvik-fieldwork/index.html#what-i-did",
+    "href": "experience/utqiagvik-fieldwork/index.html#what-i-did",
+    "title": "Field Work: Utqiagvik, Alaska",
+    "section": "",
+    "text": "Permafrost coring and rock sampling with Ben Jones’ group\nPresented An Introduction to the Arctic Data Center at the Utqiagvik Community Meeting\nContributed to the dataset Observations of Exotic Tundra Boulders on the Arctic Coastal Plain of Northern Alaska (1826 to 2025) (doi:10.18739/A2RN30935)"
+  },
+  {
+    "objectID": "research/physics-informed-lstm/index.html",
+    "href": "research/physics-informed-lstm/index.html",
+    "title": "Physics-Informed LSTMs for Streamflow",
+    "section": "",
+    "text": "Deep learning models such as Long Short-Term Memory (LSTM) networks can forecast streamflow well, but they are often treated as black boxes. In Laurel Larsen’s Environmental Systems Dynamics Lab at UC Berkeley, we explored whether building physics-based constraints into an LSTM improves its forecasts, and whether the model’s internal structure reconstructs physical processes in the watershed."
+  },
+  {
+    "objectID": "research/physics-informed-lstm/index.html#overview",
+    "href": "research/physics-informed-lstm/index.html#overview",
+    "title": "Physics-Informed LSTMs for Streamflow",
+    "section": "",
+    "text": "Deep learning models such as Long Short-Term Memory (LSTM) networks can forecast streamflow well, but they are often treated as black boxes. In Laurel Larsen’s Environmental Systems Dynamics Lab at UC Berkeley, we explored whether building physics-based constraints into an LSTM improves its forecasts, and whether the model’s internal structure reconstructs physical processes in the watershed."
+  },
+  {
+    "objectID": "research/physics-informed-lstm/index.html#my-role",
+    "href": "research/physics-informed-lstm/index.html#my-role",
+    "title": "Physics-Informed LSTMs for Streamflow",
+    "section": "My Role",
+    "text": "My Role\n\nDesigned LSTM neural networks in PyTorch to forecast watershed discharge from temperature & precipitation time series\nAdded physics-based constraints to the model structure, improving accuracy by 5%\nImplemented time series cross-validation to test robustness across 30 datasets in varying climates\nBuilt Python visualization scripts to compare and analyze 2+ million graphs, supporting the hypothesis that a network’s internal structure can reconstruct physical processes"
+  },
+  {
+    "objectID": "research/physics-informed-lstm/index.html#tools",
+    "href": "research/physics-informed-lstm/index.html#tools",
+    "title": "Physics-Informed LSTMs for Streamflow",
+    "section": "Tools",
+    "text": "Tools\nPython · PyTorch · time series cross-validation"
+  },
+  {
+    "objectID": "research/physics-informed-lstm/index.html#outputs",
+    "href": "research/physics-informed-lstm/index.html#outputs",
+    "title": "Physics-Informed LSTMs for Streamflow",
+    "section": "Outputs",
+    "text": "Outputs\n\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster. Abstract\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster. Abstract"
+  },
+  {
+    "objectID": "research/weather-meta-model/index.html",
+    "href": "research/weather-meta-model/index.html",
+    "title": "Meta-Model Weather Forecasting",
+    "section": "",
+    "text": "No single weather forecast is best everywhere. At ClimateAi, I built a meta-model that combines several public and private forecasts, weighting each one by its recent skill at each location and lead time, to produce more accurate short-term forecasts of mean temperature and precipitation."
+  },
+  {
+    "objectID": "research/weather-meta-model/index.html#overview",
+    "href": "research/weather-meta-model/index.html#overview",
+    "title": "Meta-Model Weather Forecasting",
+    "section": "",
+    "text": "No single weather forecast is best everywhere. At ClimateAi, I built a meta-model that combines several public and private forecasts, weighting each one by its recent skill at each location and lead time, to produce more accurate short-term forecasts of mean temperature and precipitation."
+  },
+  {
+    "objectID": "research/weather-meta-model/index.html#my-role",
+    "href": "research/weather-meta-model/index.html#my-role",
+    "title": "Meta-Model Weather Forecasting",
+    "section": "My Role",
+    "text": "My Role\n\nDesigned a multi-model ensemble algorithm combining 6 data sources, with separate weights for 30 customer locations and 4 lead times\nImproved short-term forecasts by 20% over the best vendor’s model\nBuilt automated Google Cloud pipelines for geospatial data extraction, preprocessing, and forecast skill & uncertainty analysis, updating the model weights weekly\nPresented Tableau map visualizations comparing our model’s performance with competitors’"
+  },
+  {
+    "objectID": "research/weather-meta-model/index.html#tools",
+    "href": "research/weather-meta-model/index.html#tools",
+    "title": "Meta-Model Weather Forecasting",
+    "section": "Tools",
+    "text": "Tools\nPython · Xarray · pandas · Google Cloud · Tableau"
+  },
+  {
+    "objectID": "research/weather-meta-model/index.html#outputs",
+    "href": "research/weather-meta-model/index.html#outputs",
+    "title": "Meta-Model Weather Forecasting",
+    "section": "Outputs",
+    "text": "Outputs\n\nKadi, J., Ahmadalipour, A., Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster. Abstract"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Pan-Arctic Permafrost Visualization\n\n\n\nArctic\n\nGeospatial\n\nVisualization\n\n\n\nTurning machine-learning-derived permafrost maps into interactive 2D & 3D web tiles for the Permafrost Discovery Gateway.\n\n\n\n\n\n\n\n\n\n\n\n\nSemantic Search for NASA Mission Documents\n\n\n\nNLP\n\nDeep Learning\n\n\n\nFine-tuned BERT models and a question answering tool that cut months from NASA’s document auditing process.\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics-Informed LSTMs for Streamflow\n\n\n\nHydrology\n\nDeep Learning\n\n\n\nAdding physical constraints to LSTM neural networks to forecast watershed discharge, and checking whether their internal states track real hydrologic processes.\n\n\n\n\n\n\n\n\n\n\n\n\nMeta-Model Weather Forecasting\n\n\n\nClimate\n\nForecasting\n\n\n\nCombining public and private weather forecasts into a weighted ensemble that beat the best single vendor by 20%.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "National Center for Ecological Analysis & Synthesis\n\n\nProjects Data Coordinator · Oct 2023 – Present · Santa Barbara, CA\n\n\n\nArctic\n\nGeospatial\n\nData Management\n\n\n\n\nArctic data curation & publishing, permafrost geospatial visualization, HPC workflows, and teaching for the NSF Arctic Data Center and Permafrost Discovery Gateway.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Work: Utqiagvik, Alaska\n\n\nField Technician & Community Engagement · Sep 2024 (1 week)\n\n\n\nArctic\n\nField Work\n\n\n\n\nPermafrost coring, rock sampling, and presentations to community leaders on Alaska’s Arctic Coastal Plain.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNASA Ames Research Center\n\n\nResearch Data Scientist (via KBR Inc.) · Aug 2021 – Mar 2023 · Mountain View, CA\n\n\n\nNLP\n\nDeep Learning\n\n\n\n\nSemantic search and question answering over mission documents using fine-tuned BERT transformer models.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Systems Dynamics Lab, UC Berkeley\n\n\nResearch Assistant · Aug 2020 – Aug 2021 · Berkeley, CA\n\n\n\nHydrology\n\nDeep Learning\n\n\n\n\nPhysics-informed LSTM neural networks for forecasting watershed discharge.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimateAi\n\n\nData Science Intern · Jun 2020 – Aug 2020 · San Francisco, CA\n\n\n\nClimate\n\nForecasting\n\n\n\n\nMulti-model ensemble for short-term temperature and precipitation forecasts.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "See also my Google Scholar and ORCID profiles."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications & Presentations",
+    "section": "Journal Articles",
+    "text": "Journal Articles\nKing, R. A., Abowd, L., Broderick, C., Bradley, L. M., Czapanskiy, M., Farnisa, M. M., Ferrer, E., Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., Kadi, J. A., Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., & Fong, C. R. (2026). Ten simple rules for effective use of generative AI for code development in environmental science. PLOS Computational Biology, 22(8), e1014627. doi:10.1371/journal.pcbi.1014627"
+  },
+  {
+    "objectID": "publications.html#software",
+    "href": "publications.html#software",
+    "title": "Publications & Presentations",
+    "section": "Software",
+    "text": "Software\nThiessen-Bock, R., Cohen, J., Jones, M., Walker, L., Nenuji, R., Kosobokova, A., Regetz, J., & Kadi, J. (2026). Viz-3dtiles: Cesium 3D Tiling for Geospatial Visualization (version 1.1.0). Arctic Data Center. doi:10.18739/A2W669B4Q"
+  },
+  {
+    "objectID": "publications.html#datasets",
+    "href": "publications.html#datasets",
+    "title": "Publications & Presentations",
+    "section": "Datasets",
+    "text": "Datasets\nJones, B., Creel, R., Kanevskiy, M., Balter-Kennedy, A., Shackleton, S., Wilson, P., Kadi, J., & Brigham-Grette, J. (2025). Observations of Exotic Tundra Boulders on the Arctic Coastal Plain of Northern Alaska (1826 to 2025). Arctic Data Center. doi:10.18739/A2RN30935"
+  },
+  {
+    "objectID": "publications.html#course-books",
+    "href": "publications.html#course-books",
+    "title": "Publications & Presentations",
+    "section": "Course Books",
+    "text": "Course Books\nJones, M. B., Clark, S. J., Regetz, J., Kadi, J., Nenuji, R., Greco, N., & Garcia, A. (2025). Scalable and Computationally Reproducible Approaches to Arctic Research. Arctic Data Center. doi:10.18739/A2NK3670P\nJones, M. B., Garcia, A., Greco, N., Kadi, J., & Regetz, J. (2025). Fundamentals in Data Management for Qualitative and Quantitative Arctic Research. Arctic Data Center & NCEAS Learning Hub. doi:10.18739/A2TM7232M\nClark, S. J., Jones, M. B., Garcia, A., Galaz García, C., Kadi, J., Chen, A., & Klope, M. (2024). Scalable and Computationally Reproducible Approaches to Arctic Research. Arctic Data Center. doi:10.18739/A2C53F33M\nClark, J., Garcia, A., Jones, M. B., Kadi, J., Klope, M., & Vargas Poulsen, C. (2024). Reproducible Approaches to Arctic Research Using R. Arctic Data Center & NCEAS Learning Hub. doi:10.18739/A2QF8JM4T\nGarcia, A., Jones, M. B., Kadi, J., Klope, M., & Vargas Poulsen, C. (2024). Fundamentals in Data Management for Qualitative and Quantitative Arctic Research. Arctic Data Center & NCEAS Learning Hub. doi:10.18739/A2KP7TT0P"
+  },
+  {
+    "objectID": "publications.html#posters-presentations",
+    "href": "publications.html#posters-presentations",
+    "title": "Publications & Presentations",
+    "section": "Posters & Presentations",
+    "text": "Posters & Presentations\nKadi, J. An Introduction to the Arctic Data Center. Utqiagvik Community Meeting, 2024. Oral presentation.\nZhang, L., Bellugi, D. G., Li, S., Kamat, A., Kadi, J., Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. AGU Fall Meeting, 2022. Poster. Abstract\nZhang, L., Bellugi, D., Kadi, J., Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. AGU Fall Meeting, 2021. Poster. Abstract\nKadi, J., Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. AGU Fall Meeting, 2020. Poster. Abstract\nKadi, J., & Chan, E. Exploring Language-Independent Phonetic Transcription. Berkeley Division of Data Science Research Keynote, 2019. Oral presentation.\nKadi, J. Enhanced Requirement Traceability Using Recurrent Neural Networks. NASA Research Poster Symposium, 2019. Poster."
   }
 ]

@@ -1,26 +1,59 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - media/utqiagvik-banner.jpg
 
 website:
   title: "Justin Kadi"
+  description: "Environmental data scientist working on Arctic data, geospatial pipelines, and machine learning for earth systems."
+  site-url: https://justinkadi.github.io
+  favicon: media/kadi-photo.jpg
+  open-graph: true
+  search:
+    location: navbar
+    type: overlay
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: work.qmd
-        text: Work Experience
+      - href: research.qmd
+        text: Research
+      - href: experience.qmd
+        text: Experience
+      - href: publications.qmd
+        text: Publications
       - href: teaching.qmd
         text: Teaching
-      - href: blog.qmd
-        text: Blog
+      # Blog is hidden until a post is published (set draft: false on a post, then uncomment)
+      # - href: blog.qmd
+      #   text: Blog
+    right:
+      - icon: github
+        href: https://github.com/justinkadi
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/justin-kadi/
+        aria-label: LinkedIn
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=8SUgB5kAAAAJ
+        aria-label: Google Scholar
+      - icon: person-vcard
+        href: https://orcid.org/0009-0007-8384-5074
+        aria-label: ORCID
+  page-footer:
+    left: "© 2026 Justin Kadi"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
-    theme: minty
+    theme:
+      light: [flatly, custom.scss]
+      dark: [darkly, custom.scss, custom-dark.scss]
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
+    lightbox: auto
+    smooth-scroll: true
 
 editor: visual
-

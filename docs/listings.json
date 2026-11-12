@@ -1,18 +1,34 @@
 [
   {
     "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
     "items": [
-      "/blog/2025-05-utqiagvik-trip/index.html"
+      "/research/permafrost-visualization/index.html",
+      "/research/nasa-semantic-search/index.html",
+      "/research/physics-informed-lstm/index.html",
+      "/research/weather-meta-model/index.html"
     ]
   },
   {
-    "listing": "/work.html",
+    "listing": "/research.html",
     "items": [
-      "/work/arctic-data-center/index.html",
-      "/work/permafrost-discovery-gateway/index.html",
-      "/work/nasa-ames/index.html",
-      "/work/esdl/index.html",
-      "/work/climate-ai/index.html"
+      "/research/permafrost-visualization/index.html",
+      "/research/nasa-semantic-search/index.html",
+      "/research/physics-informed-lstm/index.html",
+      "/research/weather-meta-model/index.html"
+    ]
+  },
+  {
+    "listing": "/experience.html",
+    "items": [
+      "/experience/nceas/index.html",
+      "/experience/utqiagvik-fieldwork/index.html",
+      "/experience/nasa-ames/index.html",
+      "/experience/esdl/index.html",
+      "/experience/climate-ai/index.html"
     ]
   }
 ]

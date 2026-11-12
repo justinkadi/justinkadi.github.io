@@ -1,0 +1,45 @@
+---
+title: "Publications & Presentations"
+toc: true
+toc-location: right
+---
+
+See also my [Google Scholar](https://scholar.google.com/citations?user=8SUgB5kAAAAJ) and [ORCID](https://orcid.org/0009-0007-8384-5074) profiles.
+
+## Journal Articles
+
+King, R. A., Abowd, L., Broderick, C., Bradley, L. M., Czapanskiy, M., Farnisa, M. M., Ferrer, E., Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., **Kadi, J. A.**, Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., & Fong, C. R. (2026). Ten simple rules for effective use of generative AI for code development in environmental science. *PLOS Computational Biology*, 22(8), e1014627. [doi:10.1371/journal.pcbi.1014627](https://doi.org/10.1371/journal.pcbi.1014627)
+
+## Software
+
+Thiessen-Bock, R., Cohen, J., Jones, M., Walker, L., Nenuji, R., Kosobokova, A., Regetz, J., & **Kadi, J.** (2026). *Viz-3dtiles: Cesium 3D Tiling for Geospatial Visualization* (version 1.1.0). Arctic Data Center. [doi:10.18739/A2W669B4Q](https://doi.org/10.18739/A2W669B4Q)
+
+## Datasets
+
+Jones, B., Creel, R., Kanevskiy, M., Balter-Kennedy, A., Shackleton, S., Wilson, P., **Kadi, J.**, & Brigham-Grette, J. (2025). *Observations of Exotic Tundra Boulders on the Arctic Coastal Plain of Northern Alaska (1826 to 2025).* Arctic Data Center. [doi:10.18739/A2RN30935](https://doi.org/10.18739/A2RN30935)
+
+## Course Books
+
+Jones, M. B., Clark, S. J., Regetz, J., **Kadi, J.**, Nenuji, R., Greco, N., & Garcia, A. (2025). *Scalable and Computationally Reproducible Approaches to Arctic Research.* Arctic Data Center. [doi:10.18739/A2NK3670P](https://doi.org/10.18739/A2NK3670P)
+
+Jones, M. B., Garcia, A., Greco, N., **Kadi, J.**, & Regetz, J. (2025). *Fundamentals in Data Management for Qualitative and Quantitative Arctic Research.* Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2TM7232M](https://doi.org/10.18739/A2TM7232M)
+
+Clark, S. J., Jones, M. B., Garcia, A., Galaz García, C., **Kadi, J.**, Chen, A., & Klope, M. (2024). *Scalable and Computationally Reproducible Approaches to Arctic Research.* Arctic Data Center. [doi:10.18739/A2C53F33M](https://doi.org/10.18739/A2C53F33M)
+
+Clark, J., Garcia, A., Jones, M. B., **Kadi, J.**, Klope, M., & Vargas Poulsen, C. (2024). *Reproducible Approaches to Arctic Research Using R.* Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2QF8JM4T](https://doi.org/10.18739/A2QF8JM4T)
+
+Garcia, A., Jones, M. B., **Kadi, J.**, Klope, M., & Vargas Poulsen, C. (2024). *Fundamentals in Data Management for Qualitative and Quantitative Arctic Research.* Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2KP7TT0P](https://doi.org/10.18739/A2KP7TT0P)
+
+## Posters & Presentations
+
+**Kadi, J.** An Introduction to the Arctic Data Center. *Utqiagvik Community Meeting*, 2024. Oral presentation.
+
+Zhang, L., Bellugi, D. G., Li, S., Kamat, A., **Kadi, J.**, Moges, E., Gorski, G., Wani, O., & Larsen, L. A physics-informed machine learning model for streamflow prediction. *AGU Fall Meeting*, 2022. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H31E..01Z/abstract)
+
+Zhang, L., Bellugi, D., **Kadi, J.**, Kamat, A., Gorski, G., & Larsen, L. Physics-informed LSTM for streamflow modeling using a dataset of intensively-monitored watersheds in the USA. *AGU Fall Meeting*, 2021. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.H35S1248Z/abstract)
+
+**Kadi, J.**, Ahmadalipour, A., & Evans, M. C. Meta-model Weather Forecasting: Integrating Public and Private Weather Forecasts. *AGU Fall Meeting*, 2020. Poster. [Abstract](https://ui.adsabs.harvard.edu/abs/2020AGUFMIN0310004K/abstract)
+
+**Kadi, J.**, & Chan, E. Exploring Language-Independent Phonetic Transcription. *Berkeley Division of Data Science Research Keynote*, 2019. Oral presentation.
+
+**Kadi, J.** Enhanced Requirement Traceability Using Recurrent Neural Networks. *NASA Research Poster Symposium*, 2019. Poster.
