@@ -71,14 +71,14 @@ Lund University, Sweden
 ### Skills
 
 - **Programming:** Python, R, bash, SQL
-- **Software:** GIS, Cesium, Git
+- **Software:** QGIS, Cesium, Git
 - **Languages:** Indonesian (fluent), Japanese (conversational)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### Service
 
-- NCEAS DEIJ Committee: Co-chair (2027–2028), Seminar Planning Lead (2023–2026)
+- NCEAS DEIJ Seminar Planning Lead (2023–present)
 - UC Berkeley Data Science Career Mentor (2025–2026)
 :::
 :::::::
